@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Kitline KDM</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=koyal13">koyal13</author>
+  <homepage>http://opendesktop.org/content/show.php?content=157744</homepage>
+  <licence>14</licence>
+  <version>0.1.2</version>
+  <rating>58</rating>
+  <downloads>698</downloads>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/screenshot.jpeg</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/system.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/kitlinebackground.jpeg</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/rectangle.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/INSTALL</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/GET MORE CALEDONIA STUFF</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/caledoniabackground.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/kitline.xml</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/login_normal.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/txtbox.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/caledonia.xml</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/.kitline.xml.kate-swp</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/system_over.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/branding.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/LICENSE</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/caledoniabackground.jpeg</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/login_active.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Kitline-KDM/</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///</installedfile>
+  <id>157744</id>
+  <releasedate>2013-03-25</releasedate>
+  <summary>--English--&#xd;
+&#xd;
+Kitline is a KDE 4.x theme collection that including KDM and KSplash at this time. Kitline is a fork of Caledonia with some improves and changes.&#xd;
+&#xd;
+If you like what I do and you want to help so... what are you waiting for? ;)&#xd;
+&#xd;
+--EspaÃ±ol--&#xd;
+&#xd;
+Kitline es una colecciÃ³n de temas para KDE 4.x que incluye un tema de KDM y KSplash de momento. Kitline es un fork de Caledonia con algunos cambios y mejoras.&#xd;
+&#xd;
+Si te gusta lo que hago y quieres ayudar... Â¿a quÃ© estas esperando? ;)&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+Kitline KSplash&#xd;
+http://kde-look.org/content/show.php/Kitline+KSplash?content=157814</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m157744-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/157744-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/157744-Kitline-KDM.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Acacia KDM</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=AcaciaCo">AcaciaCo</author>
+  <homepage>http://opendesktop.org/content/show.php?content=156889</homepage>
+  <licence>11</licence>
+  <version>1.0</version>
+  <rating>61</rating>
+  <downloads>628</downloads>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/login_normal.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/logo.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/.directory</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/background.jpeg</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/login_active.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/snap.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/danger.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/system_over.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/system.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/acacia.xml</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/lineedit.png</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///Acacia-KDM/</installedfile>
+  <installedfile>/usr/share/apps/kdm/themes///</installedfile>
+  <id>156889</id>
+  <releasedate>2013-02-11</releasedate>
+  <summary>A simple, minimalist KDM theme based on Caledonia KDM: http://kde-look.org/content/show.php/?content=143130</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m156889-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/156889-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/156889-Acacia-KDM.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

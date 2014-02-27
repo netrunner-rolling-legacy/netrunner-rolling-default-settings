@@ -1,0 +1,24 @@
+[DownloadDialog Settings]
+Height 1080=400
+Height 768=400
+Width 1366=700
+Width 1920=700
+
+[KFileDialog Settings]
+Height 1080=522
+Recent Files[$e]=desktop-login.ogg,/usr/share/sounds/desktop-login.ogg
+Recent URLs[$e]=/usr/share/sounds/
+Width 1920=960
+
+[KPropertiesDialog]
+Height 768=365
+Width 1366=277
+
+[MainWindow]
+Height 1080=689
+Height 768=430
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA8UAAAKTAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=620
+Width 1920=965

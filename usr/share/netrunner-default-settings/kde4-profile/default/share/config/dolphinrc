@@ -1,0 +1,69 @@
+[ColumnMode]
+FontWeight=50
+IconSize=22
+PreviewSize=22
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAChAAADBfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAB8BAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAABBAAADBQAAAHABAAAFAAAAAQAAAMQAAAMF/AIAAAAC+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAEEAAAMFAAABGgEAAAX7AAAAFABzAGUAYQByAGMAaABEAG8AYwBrAAAAAAD/////AAAAHwEAAAUAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAFABAAAFAAAE0gAAAwUAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+
+[CompactMode]
+FontWeight=50
+IconSize=16
+MaximumTextWidthIndex=2
+PreviewSize=16
+
+[DetailsMode]
+FontWeight=50
+IconSize=16
+PreviewSize=16
+
+[General]
+FirstRun=false
+GlobalViewProps=true
+RenameInLine=true
+ShowCopyMoveMenu=false
+ShowFullPath=true
+ShowSelectionToggle=false
+ShowSpaceInfo=true
+Version=200
+ViewPropsTimestamp=2012,2,27,15,30,29
+
+[IconsMode]
+FontWeight=50
+GridSpacing=0
+IconSize=64
+ItemHeight=131
+ItemWidth=160
+MaximumTextLines=3
+NumberOfTextlines=3
+PreviewSize=64
+
+[KFileDialog Settings]
+Autoplay sounds=true
+
+[KPropertiesDialog]
+Height 1080=455
+Width 1920=462
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAChAAACOvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAA2AAACOgAAAFABAAAFAAAAAQAAAMQAAAI6/AIAAAAC+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAADYAAAI6AAAA+AEAAAX7AAAAFABzAGUAYQByAGMAaABEAG8AYwBrAAAAAAD/////AAAAAAAAAAAAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAgBAAAFAAACQgAAAjoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar searchToolBar]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[Open-with settings]
+CompletionMode=5
+History=kate
+
+[PlacesPanel]
+IconSize=22
+
+[PreviewSettings]
+Plugins=imagethumbnail,jpegthumbnail,windowsexethumbnail,ffmpegthumbs,windowsimagethumnail,svgthumbnail
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Toolbar searchToolBar]
+IconSize=32
+ToolButtonStyle=IconOnly

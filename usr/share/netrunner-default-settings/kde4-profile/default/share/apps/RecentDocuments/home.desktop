@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=home
+Type=Link
+URL[$e]=file:///cow/home
+X-KDE-LastOpenedWith=

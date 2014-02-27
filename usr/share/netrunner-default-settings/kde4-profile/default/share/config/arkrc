@@ -1,0 +1,24 @@
+[AddDialog]
+LastMimeType=application/x-compressed-tar
+
+[KFileDialog Settings]
+Height 1080=600
+Recent Files[$e]=/tmp/netrunner_arch-snapshot2.tar.gz,/tmp/netrunner_arch-snapshot2.tar.gz
+Recent URLs[$e]=$HOME/Downloads/,/cow/,/tmp/
+Width 1920=960
+
+[MainWindow]
+Height 1080=632
+State=AAAA/wAAAAD9AAAAAAAAA2UAAAIjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=869
+
+[Recent Files]
+File1[$e]=/tmp/fonts-android_4.2.r1.orig.tar.xz
+File2[$e]=/tmp/fonts-roboto_4.2.r1-2_all.deb
+Name1[$e]=fonts-android_4.2.r1.orig.tar.xz
+Name2[$e]=fonts-roboto_4.2.r1-2_all.deb
+
+[Viewer]
+Height 1080=400
+Width 1920=560

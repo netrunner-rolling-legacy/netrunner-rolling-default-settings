@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=kde-image-pkgs.txt
+Type=Link
+URL[$e]=file:///kde-image-pkgs.txt
+X-KDE-LastOpenedWith=kate
