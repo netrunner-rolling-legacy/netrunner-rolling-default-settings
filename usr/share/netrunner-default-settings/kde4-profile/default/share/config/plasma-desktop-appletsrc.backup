@@ -118,7 +118,7 @@ Url=file:///usr/share/applications/kde4/yakuake.desktop
 Order=4
 
 [Containments][1][Applets][26]
-geometry=55,3,1469,33
+geometry=55,3,1470,33
 immutability=1
 plugin=icontasks
 zvalue=0
@@ -130,7 +130,7 @@ Items=file:///usr/share/applications/kde4/dolphin.desktop?wmClass=Dolphin,file:/
 Order=2
 
 [Containments][1][Applets][27]
-geometry=1528,3,59,33
+geometry=1529,3,58,33
 immutability=1
 plugin=pager
 zvalue=2
@@ -170,7 +170,7 @@ zvalue=0
 Order=7
 
 [Containments][1][Applets][37][PopupApplet]
-DialogHeight=96
+DialogHeight=126
 DialogWidth=532
 
 [Containments][1][Applets][38]
@@ -236,7 +236,7 @@ plugin=battery
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][13][PopupApplet]
-DialogHeight=49
+DialogHeight=55
 DialogWidth=300
 
 [Containments][1][Applets][6][Configuration][Applets][13][Shortcuts]
@@ -264,57 +264,70 @@ Order=6
 maximumSize=1920,36
 minimumSize=1920,36
 
-[Containments][45]
+[Containments][34]
 ActionPluginsSource=Global
 activity=Desktop
 activityId=403a2297-6aa1-4cf5-9184-de49b317905b
 alignToGrid=true
 alignment=0
-clickForFolderPreviews=false
-customIconSize=64
+clickForFolderPreviews=true
+customIconSize=48
 customLabel=
 desktop=-1
 drawShadows=true
 filter=0
 filterFiles=*
 formfactor=0
-geometry=1926,0,1920,1080
-horizShadowOffset=1
+geometry=1372,0,1920,1080
 iconsLocked=false
 immutability=1
 labelType=0
 lastDesktop=-1
 lastScreen=0
-layout=0
+layout=1
 location=0
 mimeFilter=
 numTextLines=2
-plugin=netrunnerdesktop
-savedPositions=1,4,Beginner User Guide.pdf,314,10,Computer.desktop,10,10,Home.desktop,162,10,thus.desktop,466,10
+plugin=folderview
+savedPositions=1,5,Install Netrunner Linux (cli).desktop,10,322,Install Netrunner Linux.desktop,10,218,trash.desktop,10,426,Home.desktop,10,114,Computer.desktop,10,10
 screen=0
-shadowBlurRadius=2
-shadowIntensity=2
 showPreviews=true
 sortColumn=-1
-sortDirsFirst=false
+sortDirsFirst=true
 sortOrder=ascending
 url=desktop:/
-vertShadowOffset=1
 wallpaperplugin=image
 wallpaperpluginmode=SingleImage
 zvalue=0
 
-[Containments][45][ToolBox]
+[Containments][34][ToolBox]
 corner=1
 offset=0
 
-[Containments][45][Wallpaper][image]
+[Containments][34][Wallpaper][image]
 slideTimer=10
 slidepaths=
 userswallpapers=/usr/share/wallpapers/manjaro-style/contents/images/1920x1400.png
 wallpaper=/usr/share/wallpapers/Netrunner Arch.jpg
 wallpapercolor=0,0,0
 wallpaperposition=0
+
+[Containments][9]
+ActionPluginsSource=Global
+activity=New Activity
+activityId=1dd0d6f7-6d30-43bb-a5fd-a5023b37016e
+desktop=-1
+formfactor=0
+geometry=0,0,1366,768
+immutability=1
+lastDesktop=-1
+lastScreen=0
+location=0
+plugin=desktop
+screen=-1
+wallpaperplugin=image
+wallpaperpluginmode=SingleImage
+zvalue=0
 
 [General]
 immutability=1

@@ -3,7 +3,9 @@ Profile=Default
 
 [PROFILE_Default]
 EmailAddress=
+EmailClient[$e]=thunderbird
 FullName=manjaro
 Organization=
 ReplyAddr=
 ServerType=
+TerminalClient=false
