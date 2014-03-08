@@ -23,10 +23,10 @@
    <Name>Miscellaneous</Name>
    <Layout>
     <Merge type="files"/>
-    <Filename>kde4-marble-touch.desktop</Filename>
+    <Filename>kde4-marble.desktop</Filename>
    </Layout>
    <Exclude>
-    <Filename>kde4-marble.desktop</Filename>
+    <Filename>kde4-marble-touch.desktop</Filename>
     <Filename>kde4-marble-mobile.desktop</Filename>
     <Filename>kde4-marble-qt.desktop</Filename>
    </Exclude>
