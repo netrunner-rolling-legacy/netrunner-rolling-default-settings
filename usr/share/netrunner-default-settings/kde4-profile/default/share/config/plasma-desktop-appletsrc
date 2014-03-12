@@ -141,7 +141,7 @@ plugin=expanding-icons-taskmanager
 zvalue=0
 
 [Containments][1][Applets][26][Configuration][Launchers]
-Items=file:///usr/share/applications/kde4/dolphin.desktop?wmClass=Dolphin,file:///usr/share/applications/firefox.desktop?wmClass=Firefox
+Items=file:///etc/skel/.local/share/applications/kde4/kde4-dolphin.desktop?wmClass=Dolphin,file:///usr/share/applications/firefox.desktop?wmClass=Firefox
 
 [Containments][1][Applets][26][LayoutInformation]
 Order=2

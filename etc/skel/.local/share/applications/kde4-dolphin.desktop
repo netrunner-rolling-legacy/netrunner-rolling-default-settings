@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Qt;KDE;System;FileTools;FileManager;
+Comment=
+Exec=dolphin %i -caption %c %u
+GenericName=File Manager
+Icon=folder
+InitialPreference=10
+MimeType=inode/directory;
+Name=Dolphin
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DocPath=dolphin/index.html
+X-KDE-SubstituteUID=false
+X-KDE-Username=
