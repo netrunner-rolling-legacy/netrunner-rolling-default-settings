@@ -259,6 +259,12 @@ DialogWidth=300
 [Containments][1][Applets][6][Configuration][Applets][13][Shortcuts]
 global=
 
+[Containments][1][Applets][6][Configuration][Applets][48]
+geometry=0,0,24,24
+immutability=1
+plugin=org.kde.ktp-presence
+zvalue=0
+
 [Containments][1][Applets][6][Configuration][Applets][8]
 plugin=notifications
 
