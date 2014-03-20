@@ -1,4 +1,4 @@
-# created by KDE, Thu Mar 6 12:35:55 2014
+# created by KDE, Thu Mar 20 11:26:53 2014
 #
 # If you do not want KDE to override your GTK settings, select
 # Appearance -> Colors in the System Settings and disable the checkbox
@@ -51,3 +51,4 @@ style "MenuItem"
 }
 
 class "*MenuItem" style "MenuItem"
+
