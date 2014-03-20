@@ -14,7 +14,7 @@ IntensityAmount=0.1
 IntensityEffect=2
 
 [ColorEffects:Inactive]
-ChangeSelectionColor=true
+ChangeSelectionColor=false
 Color=112,111,110
 ColorAmount=0.025
 ColorEffect=2
@@ -54,7 +54,7 @@ ForegroundVisited=69,40,134
 
 [Colors:Tooltip]
 BackgroundAlternate=196,224,255
-BackgroundNormal=192,218,255
+BackgroundNormal=255,255,254
 DecorationFocus=43,116,199
 DecorationHover=119,183,255
 ForegroundActive=255,128,224
@@ -133,7 +133,8 @@ DisabledValue=1
 Size=32
 
 [General]
-ColorScheme=Oxygen Cold
+BrowserApplication[$e]=!firefox
+ColorScheme=Oxygen Tooltip
 XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
@@ -146,7 +147,6 @@ smallestReadableFont=Roboto,11,-1,5,50,0,0,0,0,0
 taskbarFont=Roboto,11,-1,5,50,0,0,0,0,0
 toolBarFont=Roboto,11,-1,5,50,0,0,0,0,0
 widgetStyle=oxygen
-BrowserApplication[$e]=!firefox
 
 [Icons]
 Theme=oxygen
@@ -155,20 +155,21 @@ Theme=oxygen
 AutoSelectDelay=-1
 ChangeCursor=true
 DoubleClickInterval=400
+ShowDeleteCommand=false
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=false
 SingleClick=false
 StartDragDist=4
 StartDragTime=500
 WheelScrollLines=3
-contrast=5
+contrast=7
 
 [KDE-Global GUI Settings]
 GraphicEffectsLevel=6
 
 [KFileDialog Settings]
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=0
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
@@ -181,7 +182,7 @@ Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort reversed=false
-Speedbar Width=99
+Speedbar Width=105
 View Style=Simple
 listViewIconSize=0
 
