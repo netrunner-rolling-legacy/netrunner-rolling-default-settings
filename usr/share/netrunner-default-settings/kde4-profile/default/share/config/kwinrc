@@ -52,7 +52,7 @@ InitialZoom=1
 [ElectricBorders]
 Bottom=None
 BottomLeft=None
-BottomRight=None
+BottomRight=ShowDesktop
 Left=None
 Right=None
 Top=None

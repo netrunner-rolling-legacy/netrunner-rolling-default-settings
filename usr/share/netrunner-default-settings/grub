@@ -39,7 +39,7 @@ GRUB_DISABLE_RECOVERY=true
 # Uncomment and set to the desired menu colors.  Used by normal and wallpaper 
 # modes only.  Entries specified as foreground/background.
 GRUB_COLOR_NORMAL="light-gray/black"
-GRUB_COLOR_HIGHLIGHT="blue/black"
+GRUB_COLOR_HIGHLIGHT="light-blue/black"
 
 # Uncomment one of them for the gfx desired, a image background or a gfxtheme
 GRUB_BACKGROUND="/usr/share/grub/netrunner-background.png"

@@ -25,7 +25,7 @@ kontact_kmailpluginEnabled=true
 kontact_knotespluginEnabled=false
 kontact_korganizerpluginEnabled=true
 kontact_specialdatespluginEnabled=false
-kontact_summarypluginEnabled=true
+kontact_summarypluginEnabled=false
 kontact_todopluginEnabled=false
 
 [TipOfDay]

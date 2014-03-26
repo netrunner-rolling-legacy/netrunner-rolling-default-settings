@@ -177,6 +177,9 @@ Order=0
 DialogHeight=347
 DialogWidth=299
 
+[Containments][1][Applets][35][Shortcuts]
+global=Alt+F1
+
 [Containments][1][Applets][37]
 geometry=1864,3,32,33
 immutability=1
