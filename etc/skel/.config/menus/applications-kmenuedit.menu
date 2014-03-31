@@ -42,6 +42,20 @@
    </Exclude>
    <Layout/>
   </Menu>
+  <Menu>
+   <Name>Mathematics</Name>
+   <Layout/>
+   <Exclude>
+    <Filename>libreoffice-math.desktop</Filename>
+   </Exclude>
+  </Menu>
+  <Menu>
+   <Name>Science</Name>
+   <Layout/>
+   <Exclude>
+    <Filename>libreoffice-math.desktop</Filename>
+   </Exclude>
+  </Menu>
  </Menu>
  <Menu>
   <Name>Internet</Name>
@@ -146,6 +160,7 @@
    <Filename>kde4-kalarm.desktop</Filename>
    <Filename>kde4-okular.desktop</Filename>
    <Filename>kde4-kgpg.desktop</Filename>
+   <Filename>kde4-akonaditray.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>kde4-k3b.desktop</Filename>
@@ -156,18 +171,15 @@
    <Merge type="menus"/>
    <Menuname>XUtilities</Menuname>
    <Merge type="files"/>
-   <Filename>kde4-akonaditray.desktop</Filename>
+   <Filename>kde4-importwizard.desktop</Filename>
    <Filename>kde4-ark.desktop</Filename>
    <Filename>kde4-kate.desktop</Filename>
    <Filename>kde4-kcalc.desktop</Filename>
    <Filename>kde4-klipper.desktop</Filename>
    <Filename>kde4-k3b.desktop</Filename>
-   <Filename>kde4-knotes.desktop</Filename>
    <Filename>kde4-sweeper.desktop</Filename>
    <Separator/>
    <Menuname>More</Menuname>
-   <Filename>kde4-okular.desktop</Filename>
-   <Filename>kde4-akregator.desktop</Filename>
    <Filename>kde4-Kppp.desktop</Filename>
   </Layout>
  </Menu>
@@ -226,6 +238,10 @@
    <Filename>kde4-kfind.desktop</Filename>
    <Filename>kde4-Help.desktop</Filename>
    <Filename>kde4-dolphin.desktop</Filename>
+   <Filename>libreoffice-math.desktop</Filename>
+   <Filename>kde4-kritagemini.desktop</Filename>
+   <Filename>kde4-kritasketch.desktop</Filename>
+   <Filename>kde4-akonaditray.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -256,8 +272,15 @@
  </Menu>
  <Menu>
   <Name>Graphics</Name>
+  <Exclude>
+   <Filename>libreoffice-draw.desktop</Filename>
+   <Filename>kde4-okular.desktop</Filename>
+   <Filename>kde4-kritagemini.desktop</Filename>
+   <Filename>kde4-kritasketch.desktop</Filename>
+  </Exclude>
   <Layout>
    <Merge type="files"/>
+   <Filename>kde4-kamoso.desktop</Filename>
    <Filename>gimp.desktop</Filename>
    <Filename>kde4-gwenview.desktop</Filename>
    <Filename>kde4-karbon.desktop</Filename>
@@ -268,10 +291,6 @@
    <Merge type="menus"/>
    <Menuname>More</Menuname>
   </Layout>
-  <Exclude>
-   <Filename>libreoffice-draw.desktop</Filename>
-   <Filename>kde4-okular.desktop</Filename>
-  </Exclude>
  </Menu>
  <Layout>
   <Merge type="menus"/>
