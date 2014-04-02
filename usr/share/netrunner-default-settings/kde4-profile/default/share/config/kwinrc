@@ -136,3 +136,4 @@ ElectricBorderTiling=true
 ElectricBorders=0
 Placement=Centered
 RollOverDesktops=true
+FocusStealingPreventionLevel=0
