@@ -1,0 +1,12 @@
+[$Version]
+update_info=kgthemeprovider-migration.upd:kbreakout
+
+[General]
+FireOnClick=true
+
+[KgTheme]
+Theme=themes/crystal.desktop
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAu4AAAHcAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled

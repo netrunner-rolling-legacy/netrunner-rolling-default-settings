@@ -1,0 +1,15 @@
+[Game]
+GameType=Snake
+Name_Pl2=Player 2
+
+[General]
+Theme=themes/neon.desktop
+
+[KgDifficulty]
+Level=Easy
+
+[MainWindow]
+Height 992=476
+State=AAAA/wAAAAD9AAAAAAAAArwAAAGkAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1920=700

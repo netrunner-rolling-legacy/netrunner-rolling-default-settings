@@ -12,7 +12,7 @@ idleTime=300000
 
 [AC][HandleButtonEvents]
 lidAction=1
-powerButtonAction=16
+powerButtonAction=8
 
 [Battery]
 icon=battery-060

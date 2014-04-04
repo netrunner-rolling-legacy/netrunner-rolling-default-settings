@@ -286,6 +286,19 @@ zvalue=2
 [Containments][1][Applets][7][LayoutInformation]
 Order=6
 
+[Containments][1][Applets][7][Configuration]
+announceInterval=0
+calendarType=-1
+dateStyle=0
+displayEvents=false
+displayHolidays=false
+plainClockDrawShadow=true
+plainClockFont=Roboto,32,-1,5,50,0,0,0,0,0
+showSeconds=false
+showTimezone=false
+useCustomColor=false
+useCustomShadowColor=false
+
 [Containments][1][Configuration]
 maximumSize=1920,36
 minimumSize=1920,36

@@ -1,0 +1,8 @@
+[General]
+Background_file=/usr/share/apps/kmahjongglib/backgrounds/default.desktop
+Layout_file=/usr/share/apps/kmahjongg/layouts/default.desktop
+Tileset_file=/usr/share/apps/kmahjongglib/tilesets/traditional.desktop
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAABUAAAAJQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
