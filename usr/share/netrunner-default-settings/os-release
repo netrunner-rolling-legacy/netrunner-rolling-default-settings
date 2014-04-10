@@ -1,6 +1,6 @@
-NAME="Netrunner Arch"
+NAME="Netrunner Rolling"
 ID=netrunner
-PRETTY_NAME="Netrunner Arch"
+PRETTY_NAME="Netrunner Rolling"
 ANSI_COLOR="1;32"
 HOME_URL="http://www.netrunner-os.com/"
 SUPPORT_URL="http://forums.netrunner-os.com"
