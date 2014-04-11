@@ -350,8 +350,7 @@ offset=0
 [Containments][45][Wallpaper][image]
 slideTimer=10
 slidepaths=
-userswallpapers=/usr/share/wallpapers/manjaro-style/contents/images/1920x1400.png
-wallpaper=/usr/share/wallpapers/Netrunner Arch Blue.jpg
+wallpaper=/usr/share/wallpapers/Netrunner Rolling Blue.png
 wallpapercolor=0,0,0
 wallpaperposition=0
 
