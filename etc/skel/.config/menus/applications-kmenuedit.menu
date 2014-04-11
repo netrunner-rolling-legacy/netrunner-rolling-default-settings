@@ -242,6 +242,7 @@
    <Filename>kde4-kritagemini.desktop</Filename>
    <Filename>kde4-kritasketch.desktop</Filename>
    <Filename>kde4-akonaditray.desktop</Filename>
+   <Filename>system-config-printer.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -312,4 +313,16 @@
   <Filename>kde4-kfind.desktop</Filename>
   <Filename>kde4-Help.desktop</Filename>
  </Exclude>
+ <Menu>
+  <Name>Settingsmenu</Name>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>itweb-settings.desktop</Filename>
+   <Filename>manjaro-settings-manager.desktop</Filename>
+   <Filename>kde4-systemsettings.desktop</Filename>
+  </Layout>
+  <Exclude>
+   <Filename>system-config-printer.desktop</Filename>
+  </Exclude>
+ </Menu>
 </Menu>
