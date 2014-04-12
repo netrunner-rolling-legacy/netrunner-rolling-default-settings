@@ -10,5 +10,6 @@ if [ "$TotalMem" -le "2000000" ]; then
   exit 0
 else 
   sleep 2;
-  ksystraycmd --window 'Mozilla Firefox' --hidden firefox &
+  #ksystraycmd --window 'Mozilla Firefox' --hidden firefox &
+  kstart --skiptaskbar --window "(.*)Firefox(.*)" ksystraycmd --window "(.*)Firefox(.*)" --hidden firefox &
 fi
