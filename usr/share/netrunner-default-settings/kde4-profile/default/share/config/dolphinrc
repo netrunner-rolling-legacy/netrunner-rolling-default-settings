@@ -6,9 +6,9 @@ State=AAAA/wAAAAD9AAAAAwAAAAAAAAChAAADBfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAG
 
 [CompactMode]
 FontWeight=50
-IconSize=16
+IconSize=22
 MaximumTextWidthIndex=2
-PreviewSize=16
+PreviewSize=22
 
 [DetailsMode]
 FontWeight=50

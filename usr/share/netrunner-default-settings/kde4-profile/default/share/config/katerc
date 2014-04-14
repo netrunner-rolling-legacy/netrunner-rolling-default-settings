@@ -231,3 +231,6 @@ shadingEnabled=true
 showFullPathOnRoots=false
 sortRole=0
 viewShade=185,178,206
+
+[TipOfDay]
+RunOnStart=false

@@ -130,12 +130,14 @@
    <Filename>avahi-discover.desktop</Filename>
    <Filename>kde4-kwalletmanager.desktop</Filename>
    <Filename>kde4-dolphin.desktop</Filename>
+   <Filename>system-config-printer.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="menus"/>
    <Menuname>ScreenSavers</Menuname>
    <Menuname>Terminal</Menuname>
    <Merge type="files"/>
+   <Filename>grub-customizer.desktop</Filename>
    <Filename>kde4-kde4-dolphin.desktop</Filename>
    <Filename>kde4-sambamounterapp.desktop</Filename>
    <Filename>octopi.desktop</Filename>
@@ -145,8 +147,6 @@
    <Filename>kde4-konsole.desktop</Filename>
    <Filename>kde4-ksysguard.desktop</Filename>
    <Filename>kde4-ksystemlog.desktop</Filename>
-   <Filename>kde4-muon-discover.desktop</Filename>
-   <Filename>kde4-muon-updater.desktop</Filename>
    <Filename>kde4-yakuake.desktop</Filename>
    <Separator/>
    <Menuname>More</Menuname>
@@ -315,14 +315,16 @@
  </Exclude>
  <Menu>
   <Name>Settingsmenu</Name>
+  <Exclude/>
   <Layout>
    <Merge type="files"/>
    <Filename>itweb-settings.desktop</Filename>
    <Filename>manjaro-settings-manager.desktop</Filename>
    <Filename>kde4-systemsettings.desktop</Filename>
-  </Layout>
-  <Exclude>
    <Filename>system-config-printer.desktop</Filename>
-  </Exclude>
+  </Layout>
+  <Include>
+   <Filename>system-config-printer.desktop</Filename>
+  </Include>
  </Menu>
 </Menu>
