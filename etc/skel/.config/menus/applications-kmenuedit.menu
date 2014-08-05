@@ -243,8 +243,8 @@
    <Filename>kde4-kritagemini.desktop</Filename>
    <Filename>kde4-kritasketch.desktop</Filename>
    <Filename>kde4-akonaditray.desktop</Filename>
-   <Filename>system-config-printer.desktop</Filename>
    <Filename>kde4-storageservicemanager.desktop</Filename>
+   <Filename>system-config-printer.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -320,16 +320,15 @@
  </Exclude>
  <Menu>
   <Name>Settingsmenu</Name>
-  <Exclude/>
+  <Exclude>
+   <Filename>system-config-printer.desktop</Filename>
+  </Exclude>
+  <Include/>
   <Layout>
    <Merge type="files"/>
    <Filename>itweb-settings.desktop</Filename>
    <Filename>manjaro-settings-manager.desktop</Filename>
    <Filename>kde4-systemsettings.desktop</Filename>
-   <Filename>system-config-printer.desktop</Filename>
   </Layout>
-  <Include>
-   <Filename>system-config-printer.desktop</Filename>
-  </Include>
  </Menu>
 </Menu>
