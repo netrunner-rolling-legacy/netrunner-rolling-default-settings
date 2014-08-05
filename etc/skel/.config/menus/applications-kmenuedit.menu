@@ -75,6 +75,7 @@
    <Filename>kde4-krdc.desktop</Filename>
    <Filename>kde4-krfb.desktop</Filename>
    <Filename>kde4-Kppp.desktop</Filename>
+   <Filename>kde4-storageservicemanager.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>kde4-marble.desktop</Filename>
@@ -243,6 +244,7 @@
    <Filename>kde4-kritasketch.desktop</Filename>
    <Filename>kde4-akonaditray.desktop</Filename>
    <Filename>system-config-printer.desktop</Filename>
+   <Filename>kde4-storageservicemanager.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -259,9 +261,12 @@
    <Filename>kde4-okular.desktop</Filename>
    <Filename>kde4-korganizer.desktop</Filename>
    <Filename>kde4-Kontact.desktop</Filename>
+   <Filename>kde4-storageservicemanager.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
+   <Filename>libreoffice-math.desktop</Filename>
+   <Filename>libreoffice-startcenter.desktop</Filename>
    <Filename>libreoffice-base.desktop</Filename>
    <Filename>libreoffice-calc.desktop</Filename>
    <Filename>libreoffice-impress.desktop</Filename>

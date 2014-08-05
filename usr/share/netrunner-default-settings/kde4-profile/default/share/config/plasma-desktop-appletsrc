@@ -225,7 +225,7 @@ ShowHardware=true
 ShowSystemServices=true
 ShowUnknown=true
 alwaysShown=
-hidden=ksystraycmd
+hidden=ksystraycmd,KMix
 
 [Containments][1][Applets][6][Configuration][Applets][10]
 geometry=0,0,24,24
@@ -266,6 +266,12 @@ global=
 geometry=0,0,24,24
 immutability=1
 plugin=org.kde.ktp-presence
+zvalue=0
+
+[Containments][1][Applets][6][Configuration][Applets][49]
+geometry=0,0,24,24
+immutability=1
+plugin=veromix-plasmoid
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][8]
