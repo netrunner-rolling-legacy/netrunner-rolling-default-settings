@@ -211,6 +211,30 @@ hideWhenSingleDesktop=true
 [Containments][1][Applets][4][LayoutInformation]
 Order=0
 
+[Containments][1][Applets][50]
+geometry=1603,4,32,32
+immutability=1
+plugin=veromix-plasmoid
+zvalue=0
+
+[Containments][1][Applets][51]
+geometry=1639,4,15,32
+immutability=1
+plugin=panelspacer_internal
+zvalue=14
+
+[Containments][1][Applets][51][Configuration]
+FixedSize=true
+
+[Containments][1][Applets][52]
+geometry=1585,4,14,32
+immutability=1
+plugin=panelspacer_internal
+zvalue=16
+
+[Containments][1][Applets][52][Configuration]
+FixedSize=true
+
 [Containments][1][Applets][6]
 geometry=1628,3,162,33
 immutability=1
@@ -266,12 +290,6 @@ global=
 geometry=0,0,24,24
 immutability=1
 plugin=org.kde.ktp-presence
-zvalue=0
-
-[Containments][1][Applets][6][Configuration][Applets][49]
-geometry=0,0,24,24
-immutability=1
-plugin=veromix-plasmoid
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][8]
