@@ -198,17 +198,17 @@ hideWhenSingleDesktop=true
 Order=0
 
 [Containments][1][Applets][50]
-geometry=1604,4,32,32
+geometry=1603,4,32,32
 immutability=1
 plugin=veromix-plasmoid
-zvalue=16
+zvalue=17
 
 [Containments][1][Applets][50][PopupApplet]
-DialogHeight=59
+DialogHeight=69
 DialogWidth=490
 
 [Containments][1][Applets][51]
-geometry=1585,4,15,32
+geometry=1639,4,15,32
 immutability=1
 plugin=panelspacer_internal
 zvalue=14
@@ -217,7 +217,7 @@ zvalue=14
 FixedSize=true
 
 [Containments][1][Applets][52]
-geometry=1640,4,14,32
+geometry=1585,4,14,32
 immutability=1
 plugin=panelspacer_internal
 zvalue=16
