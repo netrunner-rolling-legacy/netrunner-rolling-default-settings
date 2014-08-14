@@ -123,10 +123,10 @@ zvalue=0
 RightButton;NoModifier=contextmenu
 
 [Containments][1][Applets][20]
-geometry=1591,3,33,33
+geometry=1549,4,32,32
 immutability=1
 plugin=icon
-zvalue=9
+zvalue=17
 
 [Containments][1][Applets][20][Configuration]
 Url=file:///usr/share/applications/kde4/yakuake.desktop
@@ -135,7 +135,7 @@ Url=file:///usr/share/applications/kde4/yakuake.desktop
 Order=4
 
 [Containments][1][Applets][26]
-geometry=55,3,1469,33
+geometry=54,4,1491,32
 immutability=1
 plugin=expanding-icons-taskmanager
 zvalue=0
@@ -146,22 +146,8 @@ Items=file:///etc/skel/.local/share/applications/kde4/kde4-dolphin.desktop?wmCla
 [Containments][1][Applets][26][LayoutInformation]
 Order=2
 
-[Containments][1][Applets][27]
-geometry=1528,3,59,33
-immutability=1
-plugin=pager
-zvalue=2
-
-[Containments][1][Applets][27][Configuration]
-currentDesktopSelected=0
-displayedText=2
-showWindowIcons=false
-
-[Containments][1][Applets][27][LayoutInformation]
-Order=3
-
 [Containments][1][Applets][35]
-geometry=0,3,33,33
+geometry=0,4,32,32
 immutability=1
 plugin=org.kde.homerun-kicker
 zvalue=0
@@ -174,14 +160,14 @@ useCustomButtonImage=true
 Order=0
 
 [Containments][1][Applets][35][PopupApplet]
-DialogHeight=347
-DialogWidth=299
+DialogHeight=389
+DialogWidth=303
 
 [Containments][1][Applets][35][Shortcuts]
 global=Alt+F1
 
 [Containments][1][Applets][37]
-geometry=1864,3,32,33
+geometry=1864,4,32,32
 immutability=1
 plugin=org.kde.notifications
 zvalue=0
@@ -194,7 +180,7 @@ DialogHeight=96
 DialogWidth=532
 
 [Containments][1][Applets][38]
-geometry=37,3,14,33
+geometry=36,4,14,32
 immutability=1
 plugin=panelspacer_internal
 zvalue=13
@@ -212,13 +198,17 @@ hideWhenSingleDesktop=true
 Order=0
 
 [Containments][1][Applets][50]
-geometry=1603,4,32,32
+geometry=1604,4,32,32
 immutability=1
 plugin=veromix-plasmoid
-zvalue=0
+zvalue=16
+
+[Containments][1][Applets][50][PopupApplet]
+DialogHeight=59
+DialogWidth=490
 
 [Containments][1][Applets][51]
-geometry=1639,4,15,32
+geometry=1585,4,15,32
 immutability=1
 plugin=panelspacer_internal
 zvalue=14
@@ -227,7 +217,7 @@ zvalue=14
 FixedSize=true
 
 [Containments][1][Applets][52]
-geometry=1585,4,14,32
+geometry=1640,4,14,32
 immutability=1
 plugin=panelspacer_internal
 zvalue=16
@@ -236,7 +226,7 @@ zvalue=16
 FixedSize=true
 
 [Containments][1][Applets][6]
-geometry=1628,3,162,33
+geometry=1658,4,134,32
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -280,8 +270,8 @@ plugin=battery
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][13][PopupApplet]
-DialogHeight=49
-DialogWidth=300
+DialogHeight=59
+DialogWidth=308
 
 [Containments][1][Applets][6][Configuration][Applets][13][Shortcuts]
 global=
@@ -302,13 +292,10 @@ SystemTray-Klipper-6=Ctrl+Alt+V
 Order=5
 
 [Containments][1][Applets][7]
-geometry=1794,3,66,33
+geometry=1796,4,64,32
 immutability=1
 plugin=digital-clock
 zvalue=2
-
-[Containments][1][Applets][7][LayoutInformation]
-Order=6
 
 [Containments][1][Applets][7][Configuration]
 announceInterval=0
@@ -322,6 +309,9 @@ showSeconds=false
 showTimezone=false
 useCustomColor=false
 useCustomShadowColor=false
+
+[Containments][1][Applets][7][LayoutInformation]
+Order=6
 
 [Containments][1][Configuration]
 maximumSize=1920,36
