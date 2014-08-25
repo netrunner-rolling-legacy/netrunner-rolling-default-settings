@@ -161,7 +161,7 @@ Order=0
 
 [Containments][1][Applets][35][PopupApplet]
 DialogHeight=362
-DialogWidth=277
+DialogWidth=267
 
 [Containments][1][Applets][35][Shortcuts]
 global=Alt+F1
@@ -241,7 +241,10 @@ plugin=icon
 zvalue=19
 
 [Containments][1][Applets][53][Configuration]
-Url=file:///etc/skel/.kde4/share/Krunner.desktop
+Url=file:///usr/share/netrunner-default-settings/kde4-profile/default/share/Krunner.desktop
+
+[Containments][1][Applets][53][LayoutInformation]
+Order=10
 
 [Containments][1][Applets][6]
 geometry=1622,4,134,32
