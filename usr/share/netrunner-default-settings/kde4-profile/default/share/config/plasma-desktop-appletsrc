@@ -123,7 +123,7 @@ zvalue=0
 RightButton;NoModifier=contextmenu
 
 [Containments][1][Applets][20]
-geometry=1560,4,32,32
+geometry=1524,4,32,32
 immutability=1
 plugin=icon
 zvalue=17
@@ -135,7 +135,7 @@ Url=file:///usr/share/applications/kde4/yakuake.desktop
 Order=3
 
 [Containments][1][Applets][26]
-geometry=54,4,1502,32
+geometry=54,4,1466,32
 immutability=1
 plugin=expanding-icons-taskmanager
 zvalue=0
@@ -160,14 +160,14 @@ useCustomButtonImage=true
 Order=0
 
 [Containments][1][Applets][35][PopupApplet]
-DialogHeight=389
-DialogWidth=303
+DialogHeight=362
+DialogWidth=277
 
 [Containments][1][Applets][35][Shortcuts]
 global=Alt+F1
 
 [Containments][1][Applets][37]
-geometry=1864,4,32,32
+geometry=1828,4,32,32
 immutability=1
 plugin=org.kde.notifications
 zvalue=0
@@ -198,7 +198,7 @@ hideWhenSingleDesktop=true
 Order=0
 
 [Containments][1][Applets][50]
-geometry=1609,4,32,32
+geometry=1573,4,32,32
 immutability=1
 plugin=veromix-plasmoid
 zvalue=17
@@ -211,7 +211,7 @@ DialogHeight=69
 DialogWidth=490
 
 [Containments][1][Applets][51]
-geometry=1645,4,9,32
+geometry=1609,4,9,32
 immutability=1
 plugin=panelspacer_internal
 zvalue=18
@@ -223,7 +223,7 @@ FixedSize=true
 Order=6
 
 [Containments][1][Applets][52]
-geometry=1596,4,9,32
+geometry=1560,4,9,32
 immutability=1
 plugin=panelspacer_internal
 zvalue=19
@@ -234,8 +234,17 @@ FixedSize=true
 [Containments][1][Applets][52][LayoutInformation]
 Order=4
 
+[Containments][1][Applets][53]
+geometry=1864,4,32,32
+immutability=1
+plugin=icon
+zvalue=19
+
+[Containments][1][Applets][53][Configuration]
+Url=file:///etc/skel/.kde4/share/Krunner.desktop
+
 [Containments][1][Applets][6]
-geometry=1658,4,134,32
+geometry=1622,4,134,32
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -279,7 +288,7 @@ plugin=battery
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][13][PopupApplet]
-DialogHeight=59
+DialogHeight=55
 DialogWidth=308
 
 [Containments][1][Applets][6][Configuration][Applets][13][Shortcuts]
@@ -301,7 +310,7 @@ SystemTray-Klipper-6=Ctrl+Alt+V
 Order=7
 
 [Containments][1][Applets][7]
-geometry=1796,4,64,32
+geometry=1760,4,64,32
 immutability=1
 plugin=digital-clock
 zvalue=2
