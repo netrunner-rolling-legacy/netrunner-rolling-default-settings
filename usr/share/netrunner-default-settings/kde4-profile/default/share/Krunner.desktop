@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment[en_US]=
 Comment=
-Exec=qdbus org.kde.krunner /App org.kde.krunner.App.display
+Exec=qdbus-qt4 org.kde.krunner /App org.kde.krunner.App.display
 GenericName[en_US]=
 GenericName=
 Icon=applications-system
