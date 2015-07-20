@@ -1,3 +1,3 @@
-netrunnerarch-default-settings
+netrunner-rolling-default-settings
 ==========================
-Default settings for KDE4 and applications for Netrunner. 
+Default settings for Plasma and Applications for Netrunner. 
