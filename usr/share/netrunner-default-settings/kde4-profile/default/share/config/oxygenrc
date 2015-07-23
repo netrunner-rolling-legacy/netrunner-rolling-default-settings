@@ -1,8 +1,0 @@
-[$Version]
-update_info=oxygen.upd:1
-
-[Style]
-AnimationsEnabled=false
-ScrollBarWidth=18
-ViewDrawFocusIndicator=false
-WindowDragEnabled=false

@@ -1,7 +1,0 @@
-NAME="Netrunner Rolling"
-ID=netrunner
-PRETTY_NAME="Netrunner Rolling"
-ANSI_COLOR="1;32"
-HOME_URL="http://www.netrunner-os.com/"
-SUPPORT_URL="http://forums.netrunner-os.com"
-BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
