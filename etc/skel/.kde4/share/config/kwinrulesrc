@@ -1,0 +1,13 @@
+[1]
+Description=(Default) Disable focus stealing prevention for XV
+fsplevel=0
+fsplevelrule=2
+wmclass=^xv .*
+wmclasscomplete=true
+wmclassmatch=3
+
+[Directories-default]
+prefixes[$d]
+
+[General]
+count=1

@@ -1,0 +1,25 @@
+2015-06-24 17:38:33,759 - DEBUG - Loading configuration...
+2015-06-24 17:38:33,759 - WARNING - bookmarks file could not be found. Using default...
+2015-06-24 17:38:33,760 - INFO - Copying default bookmarks file to user directory
+2015-06-24 17:38:33,760 - WARNING - Configuration file not found. Copying default configuration file to user directory
+2015-06-24 17:38:33,761 - INFO - Starting Radio Tray...
+2015-06-24 17:38:33,761 - INFO - Loading bookmarks file: /home/netrunner/.local/share/radiotray/bookmarks.xml
+2015-06-24 17:38:33,762 - DEBUG - Bookmarks file loaded with success
+2015-06-24 17:38:33,763 - DEBUG - PLS playlist decoder
+2015-06-24 17:38:33,763 - DEBUG - M3U playlist decoder
+2015-06-24 17:38:33,764 - DEBUG - ASX-familiy playlist decoder
+2015-06-24 17:38:33,764 - DEBUG - XSPF playlist decoder
+2015-06-24 17:38:33,764 - DEBUG - Initializing ASF playlist decoder
+2015-06-24 17:38:33,764 - DEBUG - RAM playlist decoder
+2015-06-24 17:38:33,764 - INFO - Using url timeout = 100
+2015-06-24 17:38:33,863 - DEBUG - show chooser
+2015-06-24 17:38:36,389 - INFO - user chose app indicator
+2015-06-24 17:38:36,390 - DEBUG - App Indicator selected
+2015-06-24 17:38:36,425 - INFO - finding plugins in user plugin path
+2015-06-24 17:38:36,425 - INFO - finding plugins in system plugin path
+2015-06-24 17:38:36,426 - DEBUG - /usr/share/radiotray/plugins/gnomemediakeys.plugin
+2015-06-24 17:38:36,426 - DEBUG - /usr/share/radiotray/plugins/helloworld.plugin
+2015-06-24 17:38:36,427 - DEBUG - /usr/share/radiotray/plugins/history.plugin
+2015-06-24 17:38:36,427 - DEBUG - /usr/share/radiotray/plugins/matemediakeys.plugin
+2015-06-24 17:38:36,427 - DEBUG - /usr/share/radiotray/plugins/notification.plugin
+2015-06-24 17:38:36,428 - DEBUG - /usr/share/radiotray/plugins/sleeptimer.plugin

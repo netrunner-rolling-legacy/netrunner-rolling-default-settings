@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Netrunner</title>
+	<atom:link href="http://www.netrunner.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.netrunner.com</link>
+	<description>GNU/Linux Distribution</description>
+	<lastBuildDate>Wed, 24 Jun 2015 16:57:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.5</generator>
+	<item>
+		<title>Upgrade Script Netrunner 15 -&gt; 16</title>
+		<link>http://www.netrunner.com/upgrade-script-netrunner-15-16/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=upgrade-script-netrunner-15-16</link>
+		<comments>http://www.netrunner.com/upgrade-script-netrunner-15-16/#comments</comments>
+		<pubDate>Wed, 03 Jun 2015 06:47:18 +0000</pubDate>
+		<dc:creator><![CDATA[llectronics]]></dc:creator>
+				<category><![CDATA[Frontpage]]></category>
+		<category><![CDATA[Ozymandias]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner.com/?p=4019</guid>
+		<description><![CDATA[These instructions upgrade Netrunner 15 to Netrunner 16 Please use at your own risk and make sure to make a backup of your personal data first before attempting the upgrade. On a btrfs partition it is highly recommend to create a snapshot of your current filesystem state. You can do so with the command sudo btrfs subvolume snapshot [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/upgrade-script-netrunner-15-16/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Netrunner 16 &#8211; Ozymandias released</title>
+		<link>http://www.netrunner.com/netrunner-16-ozymandias/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=netrunner-16-ozymandias</link>
+		<comments>http://www.netrunner.com/netrunner-16-ozymandias/#comments</comments>
+		<pubDate>Sat, 16 May 2015 18:58:03 +0000</pubDate>
+		<dc:creator><![CDATA[starbuck]]></dc:creator>
+				<category><![CDATA[Ozymandias]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner.com/?p=3958</guid>
+		<description><![CDATA[Welcome to Netrunner 16 &#8211; Ozymandias. This is the release announcement of Netrunner 16 Main Edition (Ozymandias) 64bit &#38; 32bit. &#8220;Why Ozymandias?&#8221; you might ask? Here is how it goes: I met a traveler from an antique land&#8230; And he told that there once was a mighty king in the land of ancient desktops, called [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/netrunner-16-ozymandias/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+		<item>
+		<title>Netrunner 15 &#8211; Prometheus (64bit)</title>
+		<link>http://www.netrunner.com/netrunner-15/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=netrunner-15</link>
+		<comments>http://www.netrunner.com/netrunner-15/#comments</comments>
+		<pubDate>Sun, 15 Feb 2015 22:25:29 +0000</pubDate>
+		<dc:creator><![CDATA[starbuck]]></dc:creator>
+				<category><![CDATA[Prometheus]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner.com/?p=3877</guid>
+		<description><![CDATA[We are proud to announce the official release of Netrunner 15 &#8211; Prometheus (64bit). Netrunner 15 is revised from the ground up: For the first time, it officially ships the new KDE Plasma Desktop 5.2. Therefore, an upgrade from previous Netrunner series with KDE4.x is neither officially available nor really recommended. This release is 64-bit [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/netrunner-15/feed/</wfw:commentRss>
+		<slash:comments>53</slash:comments>
+		</item>
+		<item>
+		<title>Plasmazilla: Firefox and Thunderbird &#8220;plasmified&#8221;</title>
+		<link>http://www.netrunner.com/firefox-and-thunderbird-plasmified/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=firefox-and-thunderbird-plasmified</link>
+		<comments>http://www.netrunner.com/firefox-and-thunderbird-plasmified/#comments</comments>
+		<pubDate>Sun, 01 Feb 2015 09:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[starbuck]]></dc:creator>
+				<category><![CDATA[Updates]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner-os.com/?p=3820</guid>
+		<description><![CDATA[Today both plasma-enabled firefox and thunderbird were updated to their latest versions 35.0.1, respective 31.4.0. The programs now share a common library called &#8220;mozilla-kde-support&#8221; (replacing the former &#8220;firefox-kde-support&#8221;). It is recommended to update firefox-plasma first, then (if you wish) installing thunderbird-plasma by executing the following commands: If you haven&#8217;t already added the ppa: sudo add-apt-repository [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/firefox-and-thunderbird-plasmified/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Netrunner 14.1 LTS &#8211; Frontier</title>
+		<link>http://www.netrunner.com/release-netrunner-14-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=release-netrunner-14-1</link>
+		<comments>http://www.netrunner.com/release-netrunner-14-1/#comments</comments>
+		<pubDate>Sat, 24 Jan 2015 11:51:43 +0000</pubDate>
+		<dc:creator><![CDATA[starbuck]]></dc:creator>
+				<category><![CDATA[Frontier]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner-os.com/?p=3757</guid>
+		<description><![CDATA[This is the release announcement of Netrunner 14.1 Main Edition (Frontier) 64bit and 32bit. The &#8220;14.1&#8221; indicates an updated and polished release of Netrunner 14 LTS on the same underlying base. Since 14.1 is using the same base &#8220;trusty&#8221; like Netrunner 14, there is no need for users of 14 to migrate: Simply updating from [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/release-netrunner-14-1/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+		</item>
+		<item>
+		<title>Netrunner Rolling 2014.09.1</title>
+		<link>http://www.netrunner.com/netrunner-rolling-2014-09-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=netrunner-rolling-2014-09-1</link>
+		<comments>http://www.netrunner.com/netrunner-rolling-2014-09-1/#comments</comments>
+		<pubDate>Thu, 25 Sep 2014 09:17:02 +0000</pubDate>
+		<dc:creator><![CDATA[llectronics]]></dc:creator>
+				<category><![CDATA[Netrunner Rolling]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner-os.com/?p=3640</guid>
+		<description><![CDATA[This is the release announcement of Netrunner Rolling 2014.09.1. We are releasing this maintenance shortly after our initial 2014.09 release to fix problems with the nvidia driver, and include a first fix for the bash shell vulnerability. We also updated Samba file sharing, kontact accounts and language packs installation. Laptop Mode Tools was replaced by [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/netrunner-rolling-2014-09-1/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+		<item>
+		<title>Upgrade Script Netrunner 13.12 &#8211;&gt; 14</title>
+		<link>http://www.netrunner.com/upgrade-script-netrunner-13-12-14/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=upgrade-script-netrunner-13-12-14</link>
+		<comments>http://www.netrunner.com/upgrade-script-netrunner-13-12-14/#comments</comments>
+		<pubDate>Thu, 17 Jul 2014 11:44:07 +0000</pubDate>
+		<dc:creator><![CDATA[llectronics]]></dc:creator>
+				<category><![CDATA[Frontier]]></category>
+		<category><![CDATA[Frontpage]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner-os.com/?p=3317</guid>
+		<description><![CDATA[These instructions upgrade Netrunner 13.12 to Netrunner 14 &#160; Please use at your own risk and make sure to make a backup of your personal data first before attempting the upgrade. To perform the upgrade, open a terminal (yakuake or konsole) and type the following commands: wget http://pub.netrunner-os.com/upgrade-13.12_to_14.sh chmod a+xr upgrade-13.12_to_14.sh sudo ./upgrade-13.12_to_14.sh During the upgrade, you&#8217;ll see [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/upgrade-script-netrunner-13-12-14/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Rolling Update to 0.8.10 base</title>
+		<link>http://www.netrunner.com/rolling-update-to-0-8-10-base/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rolling-update-to-0-8-10-base</link>
+		<comments>http://www.netrunner.com/rolling-update-to-0-8-10-base/#comments</comments>
+		<pubDate>Wed, 02 Jul 2014 16:14:50 +0000</pubDate>
+		<dc:creator><![CDATA[starbuck]]></dc:creator>
+				<category><![CDATA[Netrunner Rolling]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner-os.com/?p=3308</guid>
+		<description><![CDATA[To do a complete update of Netrunner Rolling to 0.8.10 base (Ascella), please type these commands: sudo pacman-mirrors -g sudo pacman -Syy sudo pacman -S manjaro-keyring sudo pacman -Suu Answer all questions with [Y], you should have all packages updated, like KDE 4.13.2, Firefox 30, Skype 4.3 and Homerun 1.2.5. To confirm you have updated [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/rolling-update-to-0-8-10-base/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Homerun Kicker 1.2.5 updated</title>
+		<link>http://www.netrunner.com/homerun-kicker-updated/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=homerun-kicker-updated</link>
+		<comments>http://www.netrunner.com/homerun-kicker-updated/#comments</comments>
+		<pubDate>Mon, 30 Jun 2014 16:24:58 +0000</pubDate>
+		<dc:creator><![CDATA[starbuck]]></dc:creator>
+				<category><![CDATA[KDE]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner-os.com/?p=3285</guid>
+		<description><![CDATA[Homerun Kicker 1.2.5 just got updated and is available in the netrunner &#8220;frontier-14-updates&#8221; repository. Kicker gains the feature to show and search for descriptions of applications via the Settings. To update, simply use synaptic or type: sudo apt-get update sudo apt-get install libhomerun0 plasma-widget-homerun plasma-widget-homerun-kicker Then logout and login again for Homerun Kicker 1.2.5 to [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/homerun-kicker-updated/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Netrunner 14 &#8211; Main Edition</title>
+		<link>http://www.netrunner.com/netrunner-14-released/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=netrunner-14-released</link>
+		<comments>http://www.netrunner.com/netrunner-14-released/#comments</comments>
+		<pubDate>Sun, 22 Jun 2014 18:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[starbuck]]></dc:creator>
+				<category><![CDATA[Frontier]]></category>
+
+		<guid isPermaLink="false">http://www.netrunner-os.com/?p=3194</guid>
+		<description><![CDATA[The Netrunner Team today released Netrunner 14 Frontier &#8211; 32bit and 64bit versions. The release follows Kubuntus support cycle, giving it a full 5 year support life via the backport repos. Go straight to the Download page. Release Notes: LTS Long Term Support Firefox Instant start (on machines with &#62;2GB RAM) KDE Dreamdesktop for animated [&#8230;]]]></description>
+		<wfw:commentRss>http://www.netrunner.com/netrunner-14-released/feed/</wfw:commentRss>
+		<slash:comments>46</slash:comments>
+		</item>
+	</channel>
+</rss>

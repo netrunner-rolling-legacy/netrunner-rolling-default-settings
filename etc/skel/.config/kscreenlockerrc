@@ -1,0 +1,6 @@
+[Daemon]
+Timeout=0
+
+[Greeter]
+Theme=org.kde.breeze.desktop
+ThemeBackground=/usr/share/wallpapers/The Wheel.png

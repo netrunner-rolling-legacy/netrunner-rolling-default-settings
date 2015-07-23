@@ -1,0 +1,17 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Service
+Icon=kmix
+Exec=kcmshell5 kcm_pulseaudio
+X-KDE-Weight=10
+
+X-KDE-Library=kcm_pulseaudio
+X-KDE-ServiceTypes=KCModule
+X-KDE-System-Settings-Parent-Category=group-multimedia
+X-KDE-ParentApp=kcontrol
+X-KDE-PluginKeyword=kcm_pulseaudio
+X-KDE-Keywords=
+Categories=
+
+Name=Sound
+Comment=Sound and Other Stuff

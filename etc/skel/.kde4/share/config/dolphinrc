@@ -1,0 +1,46 @@
+[CompactMode]
+FontWeight=50
+PreviewSize=16
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=16
+
+[General]
+GlobalViewProps=true
+ShowFullPath=true
+ShowSelectionToggle=false
+ShowSpaceInfo=true
+Version=200
+
+[IconsMode]
+FontWeight=50
+IconSize=80
+PreviewSize=80
+
+[MainWindow]
+Height 768=769
+Height 800=498
+Height 989=769
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACsAAACDvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAwBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAABKAAACDgAAAFQBAAAFAAAAAQAAALYAAAIO/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAAEoAAAIOAAABEAEAAAUAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAwBAAAFAAACJQAAAg4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1024=1025
+Width 1280=888
+Width 1920=1055
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=32
+
+[PlacesPanel]
+IconSize=22
+
+[PreviewSettings]
+Plugins=imagethumbnail,jpegthumbnail,svgthumbnail,ffmpegthumbs
+
+[SettingsDialog]
+Height 768=349
+Height 900=388
+Height 989=418
+Width 1024=512
+Width 1600=524
+Width 1920=514

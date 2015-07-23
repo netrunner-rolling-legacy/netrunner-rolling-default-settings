@@ -1,0 +1,27 @@
+
+[audacious]
+clear_playlist=FALSE
+open_to_temporary=FALSE
+show_filepopup_for_tuple=FALSE
+show_numbers_in_pl=TRUE
+
+[gtkui]
+column_expand=1,1,1,0,0
+column_widths=-1,-1,-1,-1,-1
+player_x=573
+player_y=225
+
+[gtkui-layout]
+item_count=0
+
+[skins]
+equalizer_x=85
+equalizer_y=350
+mainwin_font=Droid Sans Fallback 9
+player_x=85
+player_y=234
+playlist_font=Arial 8
+playlist_x=360
+playlist_y=234
+skin=/usr/share/audacious/Skins/135799-winamp_classic.wsz
+twoway_scroll=TRUE
