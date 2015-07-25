@@ -15,7 +15,7 @@ X-Plasma-ContainmentType=Desktop
 
 X-KDE-PluginInfo-Author=AJSlye
 X-KDE-PluginInfo-Email=jameskittsmiller@gmail.com
-X-KDE-PluginInfo-Name=org.kde.plasma.netrunnerDesktop
+X-KDE-PluginInfo-Name=org.kde.plasma.folder
 X-KDE-PluginInfo-Version=2.0
 X-KDE-PluginInfo-Category=File System
 X-KDE-PluginInfo-Depends=
