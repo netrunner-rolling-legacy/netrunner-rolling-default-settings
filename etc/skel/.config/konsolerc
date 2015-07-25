@@ -2,17 +2,10 @@
 DefaultProfile=Shell.profile
 
 [Favorite Profiles]
-Favorites=/usr/share/kde4/apps/konsole/Shell.profile
+Favorites=
 
 [MainWindow]
-Height 1024=601
-Height 1200=601
-Height 768=601
-Height 834=601
-Height 600=600
-State=AAAA/wAAAAD9AAAAAAAAAyAAAAI/AAAABAAAAAQAAAAIAAAACPwAAAAA
+Height 900=607
+State=AAAA/wAAAAD9AAAAAAAAA9wAAAJFAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1024=801
-Width 1280=801
-Width 1440=801
-Width 1920=801
+Width 1600=988
