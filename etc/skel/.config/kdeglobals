@@ -138,7 +138,6 @@ Name=Oxygen Cold
 XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
-dbfile=/home/jamesk/.mozilla/firefox/urmsktfc.default/places.sqlite
 fixed=DejaVu Sans Mono,9,-1,5,50,0,0,0,0,0
 font=DejaVu Sans,9,-1,5,50,0,0,0,0,0
 menuFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0

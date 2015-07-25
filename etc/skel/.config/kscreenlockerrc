@@ -1,4 +1,8 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
 [Daemon]
+Autolock=false
 Timeout=0
 
 [Greeter]
