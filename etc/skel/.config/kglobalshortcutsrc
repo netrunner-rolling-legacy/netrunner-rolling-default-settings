@@ -1,7 +1,3 @@
-[ActivityManager]
-_k_friendly_name=System Settings
-switch-to-activity-26bff1a1-8dbf-470e-be55-5a35e0b98410=none,none,Switch to activity "Default"
-
 [KDE Keyboard Layout Switcher]
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
 _k_friendly_name=System Settings
@@ -31,8 +27,8 @@ display=Display,Display,Switch Display
 
 [khotkeys]
 _k_friendly_name=System Settings
-{72e859f6-db72-4bd3-bb21-9614ccc93736}=none,none,PrintScreen
-{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
+{a72c51a0-d5b9-46d1-856e-6b1519083a69}=Print,none,PrintScreen
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
 
 [kmix]
 _k_friendly_name=System Settings
@@ -41,22 +37,17 @@ increase_volume=Volume Up,Volume Up,Increase Volume
 mute=Volume Mute,Volume Mute,Mute
 mute_volume=,Volume Mute,Mute
 
-[konversation]
-_k_friendly_name=System Settings
-next_active_tab=none,none,Next Active Tab
-toggle_mainwindow_visibility=none,none,Show/Hide Konversation
-
 [krunner]
 _k_friendly_name=System Settings
-run command=Alt+Space\t\tSearch,Alt+Space,Run Command
+run command=Alt+Space\tAlt+F2\tSearch,Alt+Space,Run Command
 run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Run Command on clipboard contents
 
 [ksmserver]
-Halt Without Confirmation=none,none,Halt Without Confirmation
+Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,none,Halt Without Confirmation
 Lock Session=Ctrl+Alt+L\tScreensaver,Ctrl+Alt+L\tScreensaver,Lock Session
-Log Out=none,none,Log Out
-Log Out Without Confirmation=none,none,Log Out Without Confirmation
-Reboot Without Confirmation=none,none,Reboot Without Confirmation
+Log Out=Ctrl+Alt+Del,none,Log Out
+Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Log Out Without Confirmation
+Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Reboot Without Confirmation
 _k_friendly_name=System Settings
 
 [kwin]
@@ -126,12 +117,12 @@ Walk Through Desktops=none,none,Walk Through Desktops
 Walk Through Desktops (Reverse)=none,none,Walk Through Desktops (Reverse)
 Walk Through Window Tabs=none,none,Walk Through Window Tabs
 Walk Through Window Tabs (Reverse)=none,none,Walk Through Window Tabs (Reverse)
-Walk Through Windows=none,none,Walk Through Windows
-Walk Through Windows (Reverse)=none,none,Walk Through Windows (Reverse)
+Walk Through Windows=Alt+Tab,none,Walk Through Windows
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,none,Walk Through Windows (Reverse)
 Walk Through Windows Alternative=none,none,Walk Through Windows Alternative
 Walk Through Windows Alternative (Reverse)=none,none,Walk Through Windows Alternative (Reverse)
-Walk Through Windows of Current Application=none,none,Walk Through Windows of Current Application
-Walk Through Windows of Current Application (Reverse)=none,none,Walk Through Windows of Current Application (Reverse)
+Walk Through Windows of Current Application=Alt+`,none,Walk Through Windows of Current Application
+Walk Through Windows of Current Application (Reverse)=Alt+~,none,Walk Through Windows of Current Application (Reverse)
 Walk Through Windows of Current Application Alternative=none,none,Walk Through Windows of Current Application Alternative
 Walk Through Windows of Current Application Alternative (Reverse)=none,none,Walk Through Windows of Current Application Alternative (Reverse)
 Window Above Other Windows=none,none,Keep Window Above Others
@@ -207,24 +198,17 @@ view_actual_size=Meta+0,Meta+0,Actual Size
 view_zoom_in=Meta+=,Meta+=,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
 
-[mediacontrol]
-_k_friendly_name=System Settings
-nextmedia=Media Next,Media Next,Media playback next
-playpausemedia=Media Play,Media Play,Play/Pause media playback
-previousmedia=Media Previous,Media Previous,Media playback previous
-stopmedia=Media Stop,Media Stop,Stop media playback
-
 [plasmashell]
 _k_friendly_name=System Settings
-activate widget 20=Alt+F1,none,Activate Application Menu Widget
+activate widget 26=Alt+F1,none,Activate Application Menu Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
 cycleNextAction=none,none,Next History Item
 cyclePrevAction=none,none,Previous History Item
 edit_clipboard=none,none,Edit Contents...
 manage activities=Meta+Q,Meta+Q,Activities...
-next activity=none,none,Walk through activities
-previous activity=none,none,Walk through activities (Reverse)
+next activity=Meta+Tab,none,Walk through activities
+previous activity=Meta+Shift+Tab,none,Walk through activities (Reverse)
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
 show dashboard=Ctrl+F12,Ctrl+F12,Show Dashboard
 show-barcode=none,none,Show Barcode...
