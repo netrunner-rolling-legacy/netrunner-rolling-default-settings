@@ -3,6 +3,24 @@ MidButton;NoModifier=org.kde.paste
 RightButton;NoModifier=org.kde.contextmenu
 wheel:Vertical;NoModifier=org.kde.switchdesktop
 
+[ActionPlugins][0][RightButton;NoModifier]
+_add panel=true
+_context=true
+_lock_screen=false
+_logout=false
+_run_command=false
+_sep1=true
+_sep2=true
+_sep3=true
+_wallpaper=true
+add widgets=true
+configure=true
+configure shortcuts=false
+lock widgets=true
+manage activities=false
+remove=true
+run associated application=false
+
 [ActionPlugins][1]
 MidButton;NoModifier=org.kde.paste
 RightButton;NoModifier=org.kde.contextmenu
@@ -28,7 +46,8 @@ pressToMove=true
 showToolbox=false
 
 [Containments][20][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/rolling-wallpaper-6.png
+FillMode=2
+Image=file:///usr/share/wallpapers/rolling-wallpaper-7.png
 height=900
 width=1600
 

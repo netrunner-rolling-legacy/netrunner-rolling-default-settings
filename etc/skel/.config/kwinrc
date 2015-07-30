@@ -52,7 +52,7 @@ CommandWindowWheel=Scroll
 
 [Plugins]
 blurEnabled=true
-contrastEnabled=false
+contrastEnabled=true
 enforcedecoEnabled=false
 kwin4_effect_fadeEnabled=true
 kwin4_effect_maximizeEnabled=false
@@ -115,4 +115,4 @@ ButtonsOnLeft=M
 ButtonsOnRight=IAX
 CloseOnDoubleClickOnMenu=true
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__FormaN
+theme=__aurorae__svg__Carbon
