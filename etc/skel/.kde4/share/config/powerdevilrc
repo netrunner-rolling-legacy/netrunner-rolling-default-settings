@@ -1,5 +1,0 @@
-[Profiles]
-ACProfile=Performance
-BatteryProfile=Powersave
-LowProfile=Aggressive Powersave
-WarningProfile=Xtreme Powersave
