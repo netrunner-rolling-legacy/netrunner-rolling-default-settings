@@ -149,7 +149,7 @@ Theme=Moka
 [KDE]
 ColorScheme=Oxygen Cold
 ShowIconsInMenuItems=true
-ShowIconsOnPushButtons=true
+ShowIconsOnPushButtons=false
 SingleClick=false
 contrast=4
 widgetStyle=carbon
