@@ -34,7 +34,7 @@ formfactor=0
 immutability=1
 lastScreen=0
 location=0
-plugin=org.kde.plasma.netrunnerfolder
+plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][20][ConfigDialog]
@@ -64,7 +64,7 @@ wallpaperplugin=org.kde.image
 
 [Containments][25][Applets][26]
 immutability=1
-plugin=org.kde.plasma.netrunnerkicker
+plugin=org.kde.plasma.kicker
 
 [Containments][25][Applets][26][Configuration][General]
 customButtonImage=file:///usr/share/pixmaps/homerun.svgz
