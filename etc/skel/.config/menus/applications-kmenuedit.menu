@@ -2,46 +2,77 @@
 <Menu>
  <Menu>
   <Name>Development</Name>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>Translation</Menuname>
+   <Menuname>Web Development</Menuname>
+   <Menuname>X-KDE-KDevelopIDE</Menuname>
+  </Layout>
   <Exclude>
+   <Filename>org.kde.akonadiconsole.desktop</Filename>
    <Filename>assistant-qt4.desktop</Filename>
    <Filename>designer-qt4.desktop</Filename>
    <Filename>linguist-qt4.desktop</Filename>
    <Filename>qdbusviewer-qt4.desktop</Filename>
-   <Filename>policytool.desktop</Filename>
-   <Filename>kde4-akonadiconsole.desktop</Filename>
-   <Filename>CMake.desktop</Filename>
-   <Filename>jconsole.desktop</Filename>
    <Filename>assistant.desktop</Filename>
    <Filename>designer.desktop</Filename>
    <Filename>linguist.desktop</Filename>
    <Filename>qdbusviewer.desktop</Filename>
   </Exclude>
-  <Menu>
-   <Name>Translation</Name>
-   <Deleted/>
-  </Menu>
-  <Menu>
-   <Name>Web Development</Name>
-   <Deleted/>
-  </Menu>
-  <Menu>
-   <Name>X-KDE-KDevelopIDE</Name>
-   <Deleted/>
-  </Menu>
-  <Layout/>
+ </Menu>
+ <Menu>
+  <Name>.hidden</Name>
+  <Include>
+   <Filename>org.kde.akonadiconsole.desktop</Filename>
+   <Filename>assistant-qt4.desktop</Filename>
+   <Filename>designer-qt4.desktop</Filename>
+   <Filename>linguist-qt4.desktop</Filename>
+   <Filename>qdbusviewer-qt4.desktop</Filename>
+   <Filename>assistant.desktop</Filename>
+   <Filename>designer.desktop</Filename>
+   <Filename>linguist.desktop</Filename>
+   <Filename>qdbusviewer.desktop</Filename>
+   <Filename>libreoffice-math.desktop</Filename>
+   <Filename>bssh.desktop</Filename>
+   <Filename>bvnc.desktop</Filename>
+   <Filename>ktp-log-viewer.desktop</Filename>
+   <Filename>steam-valve.desktop</Filename>
+   <Filename>steam-system.desktop</Filename>
+   <Filename>kde4-konqbrowser.desktop</Filename>
+   <Filename>kde4-knetattach.desktop</Filename>
+   <Filename>org.kde.knetattach.desktop</Filename>
+   <Filename>kde4-k3b.desktop</Filename>
+   <Filename>qv4l2.desktop</Filename>
+   <Filename>xine.desktop</Filename>
+   <Filename>org.kde.storageservicemanager.desktop</Filename>
+   <Filename>org.kde.contactprintthemeeditor.desktop</Filename>
+   <Filename>org.kde.contactthemeeditor.desktop</Filename>
+   <Filename>org.kde.kaddressbook.desktop</Filename>
+   <Filename>kde4-karbon.desktop</Filename>
+   <Filename>org.kde.headerthemeeditor.desktop</Filename>
+   <Filename>org.kde.kmail.desktop</Filename>
+   <Filename>org.kde.korganizer.desktop</Filename>
+   <Filename>libreoffice-draw.desktop</Filename>
+   <Filename>kde4-okular.desktop</Filename>
+   <Filename>org.kde.sieveeditor.desktop</Filename>
+   <Filename>org.kde.pimsettingexporter.desktop</Filename>
+   <Filename>avahi-discover.desktop</Filename>
+   <Filename>org.kde.kwalletmanager5.desktop</Filename>
+   <Filename>cups.desktop</Filename>
+   <Filename>system-config-printer.desktop</Filename>
+   <Filename>org.kde.ksshaskpass.desktop</Filename>
+   <Filename>imagewriter.desktop</Filename>
+   <Filename>uxterm.desktop</Filename>
+   <Filename>xterm.desktop</Filename>
+   <Filename>org.kde.kalarm.desktop</Filename>
+   <Filename>org.kde.knotes.desktop</Filename>
+   <Filename>msm.desktop</Filename>
+   <Filename>msm_notifier.desktop</Filename>
+   <Filename>org.kde.importwizard.desktop</Filename>
+  </Include>
  </Menu>
  <Menu>
   <Name>Education</Name>
-  <Menu>
-   <Name>Miscellaneous</Name>
-   <Exclude>
-    <Filename>kde4-marble-touch.desktop</Filename>
-    <Filename>kde4-marble-mobile.desktop</Filename>
-    <Filename>kde4-marble-qt.desktop</Filename>
-    <Filename>kde4-marble.desktop</Filename>
-   </Exclude>
-   <Layout/>
-  </Menu>
   <Menu>
    <Name>Mathematics</Name>
    <Layout/>
@@ -58,329 +89,197 @@
   </Menu>
  </Menu>
  <Menu>
+  <Name>Graphics</Name>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>gimp.desktop</Filename>
+   <Filename>org.kde.gwenview.desktop</Filename>
+   <Filename>kde4-karbon.desktop</Filename>
+   <Filename>kde4-krita.desktop</Filename>
+   <Filename>kde4-ksnapshot.desktop</Filename>
+   <Filename>kde4-skanlite.desktop</Filename>
+   <Separator/>
+   <Merge type="menus"/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Exclude>
+   <Filename>kde4-okular.desktop</Filename>
+   <Filename>libreoffice-draw.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
   <Name>Internet</Name>
   <Exclude>
    <Filename>bssh.desktop</Filename>
    <Filename>bvnc.desktop</Filename>
-   <Filename>kde4-contactthemeeditor.desktop</Filename>
-   <Filename>kde4-knetattach.desktop</Filename>
-   <Filename>kde4-konqbrowser.desktop</Filename>
-   <Filename>kde4-pimsettingexporter.desktop</Filename>
-   <Filename>kde4-ktp-log-viewer.desktop</Filename>
-   <Filename>org.kde.knetattach.desktop</Filename>
-   <Filename>kde4-headerthemeeditor.desktop</Filename>
-   <Filename>org.kde.ktplogviewer.desktop</Filename>
-   <Filename>kde4-KNode.desktop</Filename>
-   <Filename>org.kde.ksshaskpass.desktop</Filename>
-   <Filename>kde4-mboximporter.desktop</Filename>
-   <Filename>kde4-KMail2.desktop</Filename>
-   <Filename>steam.desktop</Filename>
-   <Filename>kde4-akregator.desktop</Filename>
-   <Filename>kde4-krdc.desktop</Filename>
-   <Filename>kde4-krfb.desktop</Filename>
-   <Filename>kde4-Kppp.desktop</Filename>
-   <Filename>kde4-storageservicemanager.desktop</Filename>
+   <Filename>org.kde.storageservicemanager.desktop</Filename>
+   <Filename>org.kde.contactprintthemeeditor.desktop</Filename>
+   <Filename>org.kde.contactthemeeditor.desktop</Filename>
+   <Filename>ktp-log-viewer.desktop</Filename>
+   <Filename>org.kde.headerthemeeditor.desktop</Filename>
+   <Filename>org.kde.kmail.desktop</Filename>
+   <Filename>org.kde.sieveeditor.desktop</Filename>
    <Filename>steam-valve.desktop</Filename>
    <Filename>steam-system.desktop</Filename>
+   <Filename>kde4-konqbrowser.desktop</Filename>
+   <Filename>kde4-knetattach.desktop</Filename>
+   <Filename>org.kde.ksshaskpass.desktop</Filename>
+   <Filename>org.kde.pimsettingexporter.desktop</Filename>
+   <Filename>org.kde.knetattach.desktop</Filename>
   </Exclude>
   <Include>
-   <Filename>kde4-marble.desktop</Filename>
-   <Filename>kde4-Kontact.desktop</Filename>
+   <Filename>org.kde.kontact.desktop</Filename>
   </Include>
   <Layout>
    <Merge type="menus"/>
    <Menuname>Terminal</Menuname>
    <Merge type="files"/>
-   <Filename>org.kde.bluedevilsendfile.desktop</Filename>
-   <Filename>org.kde.bluedevilwizard.desktop</Filename>
-   <Filename>kde4-keditbookmarks.desktop</Filename>
-   <Filename>javaws.desktop</Filename>
-   <Filename>kde5-nm-connection-editor.desktop</Filename>
-   <Filename>ktp-log-viewer.desktop</Filename>   
-   <Filename>org.kde.konversation.desktop</Filename>   
-   <Filename>org.kde.ktpcontactlist.desktop</Filename>
-   <Filename>skype.desktop</Filename>
-   <Filename>thunderbird.desktop</Filename>
    <Filename>firefox.desktop</Filename>
+   <Filename>org.kde.konversation.desktop</Filename>
+   <Filename>org.kde.kontact.desktop</Filename>
    <Filename>transmission-qt.desktop</Filename>
-   <Menuname>More</Menuname>
-   <Filename>kde4-marble.desktop</Filename>
-   <Filename>kde4-Kontact.desktop</Filename>
-  </Layout>
- </Menu>
- <Menu>
-  <Name>Multimedia</Name>
-  <Exclude>
-   <Filename>qv4l2.desktop</Filename>
-   <Filename>kde4-k3b.desktop</Filename>
-   <Filename>kmix.desktop</Filename>
-  </Exclude>
-  <Layout>
-   <Merge type="files"/>
-   <Filename>vokoscreen.desktop</Filename>
-   <Filename>clementine.desktop</Filename>
-   <Filename>qmmp.desktop</Filename>
-   <Filename>vlc.desktop</Filename>
-   <Separator/>
-   <Merge type="menus"/>
-   <Menuname>More</Menuname>
-  </Layout>
- </Menu>
- <Menu>
-  <Name>System</Name>
-  <Exclude>
-   <Filename>dconf-editor.desktop</Filename>
-   <Filename>kde4-k3b.desktop</Filename>
-   <Filename>kde4-nepomukbackup.desktop</Filename>
-   <Filename>kde4-nepomukcleaner.desktop</Filename>
-   <Filename>uxterm.desktop</Filename>
-   <Filename>xterm.desktop</Filename>
-   <Filename>kde4-krandrtray.desktop</Filename>
-   <Filename>kde4-krfb.desktop</Filename>
-   <Filename>kde4-kuser.desktop</Filename>
-   <Filename>cups.desktop</Filename>
-   <Filename>avahi-discover.desktop</Filename>
-   <Filename>kde4-kwalletmanager.desktop</Filename>
-   <Filename>system-config-printer.desktop</Filename>
-   <Filename>imagewriter.desktop</Filename>
-  </Exclude>
-  <Layout>
-   <Merge type="menus"/>
-   <Menuname>ScreenSavers</Menuname>
-   <Menuname>Terminal</Menuname>
-   <Merge type="files"/>
-   <Filename>grub-customizer.desktop</Filename>
-   <Filename>kde4-kde4-dolphin.desktop</Filename>
-   <Filename>kde4-sambamounterapp.desktop</Filename>
-   <Filename>octopi.desktop</Filename>
-   <Filename>gparted.desktop</Filename>
-   <Filename>thus.desktop</Filename>
-   <Filename>kde4-kinfocenter.desktop</Filename>
-   <Filename>kde4-konsole.desktop</Filename>
-   <Filename>kde4-ksysguard.desktop</Filename>
-   <Filename>kde4-ksystemlog.desktop</Filename>
-   <Filename>kde4-yakuake.desktop</Filename>
+   <Filename>skype.desktop</Filename>
+   <Filename>org.kde.ktpcontactlist.desktop</Filename>
+   <Filename>thunderbird.desktop</Filename>
    <Separator/>
    <Menuname>More</Menuname>
-  </Layout>
- </Menu>
- <Menu>
-  <Name>Utilities</Name>
-  <Exclude>
-   <Filename>kde4-nepomukbackup.desktop</Filename>
-   <Filename>kde4-importwizard.desktop</Filename>
-   <Filename>kde4-nepomukcleaner.desktop</Filename>
-   <Filename>kde4-kalarm.desktop</Filename>
-   <Filename>kde4-okular.desktop</Filename>
-   <Filename>kde4-kgpg.desktop</Filename>
-   <Filename>kde4-akonaditray.desktop</Filename>
-  </Exclude>
-  <Include>
-   <Filename>kde4-k3b.desktop</Filename>
-   <Filename>kde4-akregator.desktop</Filename>
-   <Filename>kde4-Kppp.desktop</Filename>
-  </Include>
-  <Layout>
-   <Merge type="menus"/>
-   <Menuname>XUtilities</Menuname>
-   <Merge type="files"/>   
-   <Filename>kde4-ark.desktop</Filename>
-   <Filename>kde4-kate.desktop</Filename>
-   <Filename>kde4-kcalc.desktop</Filename>
-   <Filename>kde4-klipper.desktop</Filename>
-   <Filename>kde4-k3b.desktop</Filename>
-   <Filename>kde4-sweeper.desktop</Filename>
-   <Separator/>
-   <Menuname>More</Menuname>
-   <Filename>kde4-Kppp.desktop</Filename>
-  </Layout>
- </Menu>
- <Menu>
-  <Name>.hidden</Name>
-  <Include>
-   <Filename>kde4-marble.desktop</Filename>
-   <Filename>kde4-marble-mobile.desktop</Filename>
-   <Filename>kde4-marble-qt.desktop</Filename>
-   <Filename>assistant-qt4.desktop</Filename>
-   <Filename>designer-qt4.desktop</Filename>
-   <Filename>linguist-qt4.desktop</Filename>
-   <Filename>qdbusviewer-qt4.desktop</Filename>
-   <Filename>policytool.desktop</Filename>
-   <Filename>kde4-akonadiconsole.desktop</Filename>
-   <Filename>bssh.desktop</Filename>
-   <Filename>bvnc.desktop</Filename>
-   <Filename>kde4-knetattach.desktop</Filename>
-   <Filename>kde4-konqbrowser.desktop</Filename>
-   <Filename>dconf-editor.desktop</Filename>
-   <Filename>kde4-k3b.desktop</Filename>
-   <Filename>kde4-krandrtray.desktop</Filename>
-   <Filename>kde4-kuser.desktop</Filename>
-   <Filename>cups.desktop</Filename>
-   <Filename>kde4-nepomukbackup.desktop</Filename>
-   <Filename>kde4-nepomukcleaner.desktop</Filename>
-   <Filename>kde4-kalarm.desktop</Filename>
-   <Filename>kde4-contactthemeeditor.desktop</Filename>
-   <Filename>libreoffice-installer.desktop</Filename>
-   <Filename>kde4-ktp-log-viewer.desktop</Filename>
-   <Filename>kde4-headerthemeeditor.desktop</Filename>
-   <Filename>kde4-KNode.desktop</Filename>
-   <Filename>kde4-mboximporter.desktop</Filename>
-   <Filename>kde4-kaddressbook.desktop</Filename>
-   <Filename>kde4-KMail2.desktop</Filename>
-   <Filename>steam.desktop</Filename>
-   <Filename>libreoffice-draw.desktop</Filename>
-   <Filename>kde4-krdc.desktop</Filename>
-   <Filename>kde4-krfb.desktop</Filename>
-   <Filename>kde4-kmix.desktop</Filename>
-   <Filename>kde4-karbon.desktop</Filename>
-   <Filename>avahi-discover.desktop</Filename>
-   <Filename>kde4-kwalletmanager.desktop</Filename>
-   <Filename>kde4-kgpg.desktop</Filename>
-   <Filename>CMake.desktop</Filename>
-   <Filename>jconsole.desktop</Filename>
-   <Filename>assistant.desktop</Filename>
-   <Filename>designer.desktop</Filename>
-   <Filename>linguist.desktop</Filename>
-   <Filename>qdbusviewer.desktop</Filename>
-   <Filename>kde4-korganizer.desktop</Filename>
-   <Filename>kde4-kfind.desktop</Filename>
-   <Filename>kde4-Help.desktop</Filename>
-   <Filename>kde4-dolphin.desktop</Filename>
-   <Filename>libreoffice-math.desktop</Filename>
-   <Filename>kde4-kritagemini.desktop</Filename>
-   <Filename>kde4-kritasketch.desktop</Filename>
-   <Filename>kde4-akonaditray.desktop</Filename>
-   <Filename>kde4-storageservicemanager.desktop</Filename>
-   <Filename>system-config-printer.desktop</Filename>
-   <Filename>qv4l2.desktop</Filename>
-   <Filename>uxterm.desktop</Filename>
-   <Filename>xterm.desktop</Filename>
-   <Filename>steam-valve.desktop</Filename>
-   <Filename>kde4-okular.desktop</Filename>
-  </Include>
-  <Exclude/>
-  <Layout>
-   <Merge type="files"/>
-   <Filename>kde4-konqbrowser.desktop</Filename>
-   <Filename>kde4-akonadiconsole.desktop</Filename>
-   <Filename>kde4-akonaditray.desktop</Filename>
-   <Filename>bssh.desktop</Filename>
-   <Filename>bvnc.desktop</Filename>
-   <Filename>avahi-discover.desktop</Filename>
-   <Filename>kde4-storageservicemanager.desktop</Filename>
-   <Filename>kde4-contactthemeeditor.desktop</Filename>
-   <Filename>kde4-dolphin.desktop</Filename>
-   <Filename>kde4-kfind.desktop</Filename>
-   <Filename>kde4-k3b.desktop</Filename>
-   <Filename>kde4-kaddressbook.desktop</Filename>
-   <Filename>kde4-kalarm.desktop</Filename>
-   <Filename>kde4-karbon.desktop</Filename>
-   <Filename>kde4-headerthemeeditor.desktop</Filename>
-   <Filename>kde4-KMail2.desktop</Filename>
-   <Filename>kde4-knetattach.desktop</Filename>
-   <Filename>kde4-KNode.desktop</Filename>
-   <Filename>kde4-korganizer.desktop</Filename>
-   <Filename>libreoffice-draw.desktop</Filename>
-   <Filename>libreoffice-math.desktop</Filename>
-   <Filename>cups.desktop</Filename>
-   <Filename>kde4-marble.desktop</Filename>
-   <Filename>assistant-qt4.desktop</Filename>
-   <Filename>designer-qt4.desktop</Filename>
-   <Filename>linguist-qt4.desktop</Filename>
-   <Filename>qdbusviewer-qt4.desktop</Filename>
-   <Filename>assistant.desktop</Filename>
-   <Filename>designer.desktop</Filename>
-   <Filename>linguist.desktop</Filename>
-   <Filename>qdbusviewer.desktop</Filename>
-   <Filename>steam.desktop</Filename>
-   <Filename>steam-valve.desktop</Filename>
-   <Filename>qv4l2.desktop</Filename>
-   <Filename>uxterm.desktop</Filename>
-   <Filename>xterm.desktop</Filename>
   </Layout>
  </Menu>
  <Menu>
   <Name>Office</Name>
   <Exclude>
-   <Filename>kde4-contactthemeeditor.desktop</Filename>
-   <Filename>kde4-headerthemeeditor.desktop</Filename>
-   <Filename>kde4-mboximporter.desktop</Filename>
-   <Filename>kde4-pimsettingexporter.desktop</Filename>
-   <Filename>libreoffice-installer.desktop</Filename>
-   <Filename>kde4-KMail2.desktop</Filename>
-   <Filename>kde4-kaddressbook.desktop</Filename>
-   <Filename>libreoffice-draw.desktop</Filename>
+   <Filename>org.kde.kontact.desktop</Filename>
+   <Filename>org.kde.storageservicemanager.desktop</Filename>
+   <Filename>org.kde.contactprintthemeeditor.desktop</Filename>
+   <Filename>org.kde.contactthemeeditor.desktop</Filename>
+   <Filename>org.kde.kaddressbook.desktop</Filename>
    <Filename>kde4-karbon.desktop</Filename>
-   <Filename>kde4-korganizer.desktop</Filename>
-   <Filename>kde4-Kontact.desktop</Filename>
-   <Filename>kde4-storageservicemanager.desktop</Filename>
+   <Filename>org.kde.headerthemeeditor.desktop</Filename>
+   <Filename>org.kde.kmail.desktop</Filename>
+   <Filename>org.kde.korganizer.desktop</Filename>
+   <Filename>libreoffice-draw.desktop</Filename>
+   <Filename>kde4-okular.desktop</Filename>
+   <Filename>org.kde.sieveeditor.desktop</Filename>
+   <Filename>org.kde.pimsettingexporter.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
-   <Filename>libreoffice-math.desktop</Filename>
    <Filename>libreoffice-startcenter.desktop</Filename>
    <Filename>libreoffice-base.desktop</Filename>
    <Filename>libreoffice-calc.desktop</Filename>
    <Filename>libreoffice-impress.desktop</Filename>
+   <Filename>libreoffice-math.desktop</Filename>
    <Filename>libreoffice-writer.desktop</Filename>
    <Separator/>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
   </Layout>
+  <Include>
+   <Filename>libreoffice-startcenter.desktop</Filename>
+   <Filename>libreoffice-base.desktop</Filename>
+  </Include>
  </Menu>
  <Menu>
-  <Name>Graphics</Name>
-  <Exclude>
-   <Filename>libreoffice-draw.desktop</Filename>
-   <Filename>kde4-okular.desktop</Filename>
-   <Filename>kde4-kritagemini.desktop</Filename>
-   <Filename>kde4-kritasketch.desktop</Filename>
-  </Exclude>
+  <Name>Multimedia</Name>
   <Layout>
    <Merge type="files"/>
-   <Filename>kde4-kamoso.desktop</Filename>
-   <Filename>gimp.desktop</Filename>
-   <Filename>kde4-gwenview.desktop</Filename>
-   <Filename>kde4-karbon.desktop</Filename>
-   <Filename>kde4-krita.desktop</Filename>
-   <Filename>kde4-ksnapshot.desktop</Filename>
-   <Filename>simple-scan.desktop</Filename>
+   <Filename>audacious.desktop</Filename>
+   <Filename>gmusicbrowser.desktop</Filename>
+   <Filename>org.kde.kamoso.desktop</Filename>
+   <Filename>org.kde.kdenlive.desktop</Filename>
+   <Filename>pavucontrol.desktop</Filename>
+   <Filename>radiotray.desktop</Filename>
+   <Filename>vlc.desktop</Filename>
+   <Filename>vokoscreen.desktop</Filename>
    <Separator/>
    <Merge type="menus"/>
    <Menuname>More</Menuname>
   </Layout>
+  <Exclude>
+   <Filename>kde4-k3b.desktop</Filename>
+   <Filename>qv4l2.desktop</Filename>
+   <Filename>xine.desktop</Filename>
+  </Exclude>
  </Menu>
- <Layout>
-  <Merge type="menus"/>
-  <Menuname>Development</Menuname>
-  <Menuname>Education</Menuname>
-  <Menuname>Games</Menuname>
-  <Menuname>Graphics</Menuname>
-  <Menuname>Internet</Menuname>
-  <Menuname>Multimedia</Menuname>
-  <Menuname>Office</Menuname>
-  <Menuname>Science</Menuname>
-  <Menuname>Settingsmenu</Menuname>
-  <Menuname>System</Menuname>
-  <Menuname>Utilities</Menuname>
-  <Menuname>Arch Linux</Menuname>
-  <Menuname>Applications</Menuname>
- </Layout>
- <Exclude>
-  <Filename>kde4-kfind.desktop</Filename>
-  <Filename>kde4-Help.desktop</Filename>
- </Exclude>
  <Menu>
   <Name>Settingsmenu</Name>
-  <Exclude>
-   <Filename>system-config-printer.desktop</Filename>
-  </Exclude>
-  <Include/>
   <Layout>
    <Merge type="files"/>
    <Filename>itweb-settings.desktop</Filename>
-   <Filename>manjaro-settings-manager.desktop</Filename>
-   <Filename>kde4-systemsettings.desktop</Filename>
+   <Filename>systemsettings.desktop</Filename>
   </Layout>
+  <Exclude>
+   <Filename>system-config-printer.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>System</Name>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>ScreenSavers</Menuname>
+   <Menuname>Terminal</Menuname>
+   <Merge type="files"/>
+   <Filename>org.kde.dolphin.desktop</Filename>
+   <Filename>calamares.desktop</Filename>
+   <Filename>org.kde.PartitionManager.desktop</Filename>
+   <Filename>org.kde.kinfocenter.desktop</Filename>
+   <Filename>org.kde.konsole.desktop</Filename>
+   <Filename>org.kde.ksysguard.desktop</Filename>
+   <Filename>muon-discover.desktop</Filename>
+   <Filename>muon-updater.desktop</Filename>
+   <Filename>sambamounterapp.desktop</Filename>
+   <Filename>octopi.desktop</Filename>
+   <Filename>kde4-yakuake.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Exclude>
+   <Filename>avahi-discover.desktop</Filename>
+   <Filename>kde4-k3b.desktop</Filename>
+   <Filename>org.kde.kwalletmanager5.desktop</Filename>
+   <Filename>cups.desktop</Filename>
+   <Filename>system-config-printer.desktop</Filename>
+   <Filename>org.kde.ksshaskpass.desktop</Filename>
+   <Filename>imagewriter.desktop</Filename>
+   <Filename>uxterm.desktop</Filename>
+   <Filename>xterm.desktop</Filename>
+   <Filename>virtualbox.desktop</Filename>
+  </Exclude>
+ </Menu>
+ <Menu>
+  <Name>Utilities</Name>
+  <Include>
+   <Filename>kde4-k3b.desktop</Filename>
+   <Filename>virtualbox.desktop</Filename>
+   <Filename>imagewriter.desktop</Filename>
+  </Include>
+  <Exclude>
+   <Filename>org.kde.kalarm.desktop</Filename>
+   <Filename>org.kde.knotes.desktop</Filename>
+   <Filename>org.kde.importwizard.desktop</Filename>
+  </Exclude>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>XUtilities</Menuname>
+   <Merge type="files"/>
+   <Filename>org.kde.ark.desktop</Filename>
+   <Filename>hplip.desktop</Filename>
+   <Filename>org.kde.kate.desktop</Filename>
+   <Filename>org.kde.kcalc.desktop</Filename>
+   <Filename>org.kde.klipper.desktop</Filename>
+   <Filename>kde4-k3b.desktop</Filename>
+   <Filename>virtualbox.desktop</Filename>
+   <Filename>imagewriter.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>Applications</Name>
+  <Layout/>
+  <Exclude>
+   <Filename>msm.desktop</Filename>
+   <Filename>msm_notifier.desktop</Filename>
+  </Exclude>
  </Menu>
 </Menu>
