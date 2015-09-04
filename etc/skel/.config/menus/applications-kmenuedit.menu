@@ -69,6 +69,7 @@
    <Filename>msm.desktop</Filename>
    <Filename>msm_notifier.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
+   <Filename>marble.desktop</Filename>
   </Include>
  </Menu>
  <Menu>
@@ -85,7 +86,10 @@
    <Layout/>
    <Exclude>
     <Filename>libreoffice-math.desktop</Filename>
-   </Exclude>
+   </Layout>
+   <Exclude>
+    <Filename>marble.desktop</Filename>
+   </Exclude>  
   </Menu>
  </Menu>
  <Menu>
@@ -129,6 +133,7 @@
   </Exclude>
   <Include>
    <Filename>org.kde.kontact.desktop</Filename>
+   <Filename>marble.desktop</Filename>
   </Include>
   <Layout>
    <Merge type="menus"/>
