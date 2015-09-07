@@ -42,7 +42,7 @@ DialogHeight=504
 DialogWidth=560
 
 [Containments][20][General]
-positions=1,13,desktop:/calamares.desktop,0,3,desktop:/Readme.desktop,0,2,desktop:/mycomputer.desktop,0,1,desktop:/Network,0,0
+positions=1,13,desktop:/mycomputer.desktop,0,0,desktop:/Network,0,1,desktop:/Readme.desktop,0,2,desktop:/calamares.desktop,0,3
 pressToMove=true
 showToolbox=false
 sortMode=-1
