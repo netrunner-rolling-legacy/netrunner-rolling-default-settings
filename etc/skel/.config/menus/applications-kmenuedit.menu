@@ -72,6 +72,9 @@
    <Filename>kde4-okularApplication_wpd_calligra.desktop</Filename>
    <Filename>hplip.desktop</Filename>
   </Include>
+  <Exclude>
+   <Filename>org.kde.importwizard.desktop</Filename>
+  </Exclude>
   <Layout>
    <Merge type="files"/>
    <Filename>org.kde.akonadiconsole.desktop</Filename>
@@ -81,6 +84,7 @@
    <Filename>org.kde.storageservicemanager.desktop</Filename>
    <Filename>org.kde.contactprintthemeeditor.desktop</Filename>
    <Filename>org.kde.contactthemeeditor.desktop</Filename>
+   <Filename>hplip.desktop</Filename>
    <Filename>kde4-k3b.desktop</Filename>
    <Filename>org.kde.kaddressbook.desktop</Filename>
    <Filename>org.kde.kalarm.desktop</Filename>
@@ -89,6 +93,7 @@
    <Filename>org.kde.kmail.desktop</Filename>
    <Filename>org.kde.headerthemeeditor.desktop</Filename>
    <Filename>kde4-knetattach.desktop</Filename>
+   <Filename>org.kde.knetattach.desktop</Filename>
    <Filename>org.kde.knotes.desktop</Filename>
    <Filename>kde4-konqbrowser.desktop</Filename>
    <Filename>org.kde.korganizer.desktop</Filename>
@@ -99,8 +104,8 @@
    <Filename>msm.desktop</Filename>
    <Filename>msm_notifier.desktop</Filename>
    <Filename>marble.desktop</Filename>
-   <Filename>kde4-okularApplication_wpd_calligra.desktop</Filename>
    <Filename>kde4-okular.desktop</Filename>
+   <Filename>kde4-okularApplication_wpd_calligra.desktop</Filename>
    <Filename>org.kde.pimsettingexporter.desktop</Filename>
    <Filename>system-config-printer.desktop</Filename>
    <Filename>assistant.desktop</Filename>
@@ -121,9 +126,6 @@
    <Filename>xine.desktop</Filename>
    <Filename>xterm.desktop</Filename>
   </Layout>
-  <Exclude>
-   <Filename>org.kde.importwizard.desktop</Filename>
-  </Exclude>
  </Menu>
  <Menu>
   <Name>Education</Name>
@@ -146,6 +148,7 @@
    <Name>Miscellaneous</Name>
    <Layout>
     <Merge type="files"/>
+    <Filename>marble_gpx.desktop</Filename>
     <Filename>marble_osm.desktop</Filename>
    </Layout>
   </Menu>
@@ -170,14 +173,17 @@
    <Filename>gimp.desktop</Filename>
    <Filename>org.kde.gwenview.desktop</Filename>
    <Filename>kde4-karbon.desktop</Filename>
-   <Filename>kde4-krita_ora.desktop</Filename>
    <Filename>kde4-krita_psd.desktop</Filename>
+   <Filename>kde4-krita_ora.desktop</Filename>
    <Filename>kde4-krita_jp2.desktop</Filename>
+   <Filename>kde4-krita_exr.desktop</Filename>
    <Filename>kde4-krita.desktop</Filename>
    <Filename>kde4-ksnapshot.desktop</Filename>
-   <Filename>kde4-okularApplication_ghostview.desktop</Filename>
-   <Filename>kde4-okularApplication_doc_calligra.desktop</Filename>
    <Filename>kde4-okularApplication_plucker.desktop</Filename>
+   <Filename>kde4-okularApplication_doc_calligra.desktop</Filename>
+   <Filename>kde4-okularApplication_ghostview.desktop</Filename>
+   <Filename>kde4-okularApplication_docx_calligra.desktop</Filename>
+   <Filename>kde4-okularApplication_comicbook.desktop</Filename>
    <Filename>kde4-skanlite.desktop</Filename>
    <Separator/>
    <Merge type="menus"/>
@@ -257,6 +263,8 @@
    <Filename>kde4-calligrawords_ascii.desktop</Filename>
    <Filename>kontact-admin.desktop</Filename>
    <Filename>kde4-krita_psd.desktop</Filename>
+   <Filename>kde4-krita_ora.desktop</Filename>
+   <Filename>kde4-krita_exr.desktop</Filename>
    <Filename>kde4-krita_jp2.desktop</Filename>
    <Filename>libreoffice-startcenter.desktop</Filename>
    <Filename>libreoffice-base.desktop</Filename>
@@ -285,6 +293,7 @@
    <Merge type="files"/>
    <Filename>audacious.desktop</Filename>
    <Filename>gmusicbrowser.desktop</Filename>
+   <Filename>ghb.desktop</Filename>
    <Filename>org.kde.kamoso.desktop</Filename>
    <Filename>org.kde.kdenlive.desktop</Filename>
    <Filename>pavucontrol.desktop</Filename>
@@ -343,6 +352,7 @@
    <Filename>kde4-kfmclient_html.desktop</Filename>
    <Filename>org.kde.konsole.desktop</Filename>
    <Filename>org.kde.ksysguard.desktop</Filename>
+   <Filename>manjaro-welcome.desktop</Filename>
    <Filename>muon-discover.desktop</Filename>
    <Filename>muon-updater.desktop</Filename>
    <Filename>sambamounterapp.desktop</Filename>
@@ -406,6 +416,7 @@
   <Layout>
    <Merge type="files"/>
    <Filename>org.kde.accountwizard.desktop</Filename>
+   <Filename>geoclue-demo-agent.desktop</Filename>
    <Filename>gtk3-demo.desktop</Filename>
    <Filename>gtk3-icon-browser.desktop</Filename>
    <Filename>muon-discover-category.desktop</Filename>
@@ -416,7 +427,9 @@
    <Filename>kde4-ktelnetservice.desktop</Filename>
    <Filename>libreoffice-xsltfilter.desktop</Filename>
    <Filename>marble_geo.desktop</Filename>
+   <Filename>marble_worldwind.desktop</Filename>
    <Filename>kwalletmanager5-kwalletd.desktop</Filename>
+   <Filename>geoclue-where-am-i.desktop</Filename>
    <Filename>gtk3-widget-factory.desktop</Filename>
   </Layout>
  </Menu>
