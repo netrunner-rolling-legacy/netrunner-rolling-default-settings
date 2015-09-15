@@ -42,7 +42,7 @@ DialogHeight=504
 DialogWidth=560
 
 [Containments][20][General]
-positions=1,13,desktop:/mycomputer.desktop,0,0,desktop:/Network,0,1,desktop:/Readme.desktop,0,2,desktop:/calamares.desktop,0,3
+positions=1,13,desktop:/Readme.desktop,0,2,desktop:/calamares.desktop,0,3,desktop:/mycomputer.desktop,0,0,desktop:/Network,0,1
 pressToMove=true
 showToolbox=false
 sortMode=-1
@@ -159,8 +159,7 @@ plugin=org.kde.plasma.katesessions
 
 [Containments][25][Applets][30][Configuration][General]
 extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.ktp-contactlist,org.kde.plasma.ktplegacypresenceapplet,org.kde.muonnotifier,org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.notifications
-hardwareControlShown=false
-hiddenItems=org.kde.plasma.clipboard,kmix,KDE Daemon,org.kde.ktp-contactlist,org.kde.plasma.volume
+hiddenItems=org.kde.plasma.clipboard,kmix,KDE Daemon,org.kde.ktp-contactlist,org.kde.plasma.volume,org.kde.plasma.notifications
 knownItems=org.kde.kdeconnect,org.kde.ktp-contactlist,org.kde.muonnotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume
 shownItems=transmission
 
