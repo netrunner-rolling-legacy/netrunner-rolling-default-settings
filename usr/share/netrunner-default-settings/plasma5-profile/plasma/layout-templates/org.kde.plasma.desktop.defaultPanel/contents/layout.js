@@ -33,8 +33,7 @@ kicker.writeConfig("global", "Alt+F1")
 
 kicker.currentConfigGroup = ["General"]
 kicker.writeConfig("customButtonImage", "file:///usr/share/pixmaps/homerun.svgz")
-kicker.writeConfig("favoriteApps", ["systemsettings.desktop",
-"org.kde.ksysguard.desktop", "octopi.desktop", "vokoscreen.desktop"])
+kicker.writeConfig("favoriteApps", ["systemsettings.desktop", "org.kde.ksysguard.desktop", "octopi.desktop", "vokoscreen.desktop"])
 kicker.writeConfig("limitDepth", true)
 kicker.writeConfig("useCustomButtonImage", true)
 
