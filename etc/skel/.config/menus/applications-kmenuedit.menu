@@ -71,6 +71,7 @@
    <Filename>marble.desktop</Filename>
    <Filename>kde4-okularApplication_wpd_calligra.desktop</Filename>
    <Filename>hplip.desktop</Filename>
+   <Filename>vmware-user.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>org.kde.importwizard.desktop</Filename>
@@ -412,9 +413,12 @@
   <Exclude>
    <Filename>msm.desktop</Filename>
    <Filename>msm_notifier.desktop</Filename>
+   <Filename>vmware-user.desktop</Filename>
   </Exclude>
   <Layout>
    <Merge type="files"/>
+   <Filename>kmailservice5.desktop</Filename>
+   <Filename>ktelnetservice5.desktop</Filename>
    <Filename>org.kde.accountwizard.desktop</Filename>
    <Filename>geoclue-demo-agent.desktop</Filename>
    <Filename>gtk3-demo.desktop</Filename>
