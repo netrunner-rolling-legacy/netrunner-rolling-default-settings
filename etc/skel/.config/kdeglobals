@@ -141,10 +141,10 @@ menuFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
 smallestReadableFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
 toolBarFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
-widgetStyle=carbon
+widgetStyle=breeze
 
 [Icons]
-Theme=Moka
+Theme=oxygen
 
 [KDE]
 ColorScheme=Oxygen Cold
@@ -152,7 +152,7 @@ ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=false
 SingleClick=false
 contrast=4
-widgetStyle=carbon
+widgetStyle=breeze
 
 [KDE-Global GUI Settings]
 GraphicEffectsLevel=6
