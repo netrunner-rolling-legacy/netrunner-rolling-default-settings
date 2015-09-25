@@ -6,9 +6,14 @@ done=1
 mtime=1199491335
 
 [devicepreference.upd]
-ctime=1224241215
+ctime=1440746364
 done=DevicesMovedToPlatformPlugin,DevicesUIDsChanged
-mtime=1224241215
+mtime=1440746364
+
+[drkonqi-rename-config-section.upd]
+ctime=1440746364
+done=kde-4.11
+mtime=1440746364
 
 [favicons.upd]
 ctime=1199490841
@@ -41,29 +46,34 @@ done=kde3
 mtime=1199490913
 
 [kcookiescfg.upd]
-ctime=1211368061
-done=kde2.2/b1,kde3.1/cvs
-mtime=1211368061
+ctime=1442260726
+done=kde2.2/b1,kde3.1/cvs,kde4.10/git
+mtime=1442260726
 
 [kded.upd]
-ctime=1211368054
+ctime=1442260726
 done=kde3.0
-mtime=1211368054
+mtime=1442260726
 
 [kfmclient_3_2.upd]
 ctime=1199490839
 done=kfmclient_3_2
 mtime=1199490839
 
+[kgthemeprovider-migration.upd]
+ctime=1420009179
+done=bomber,granatier,kbounce,kbreakout,kdiamond,killbots,klickety,klines,kmines,knetwalk,kpat
+mtime=1420009179
+
 [kio_help.upd]
-ctime=1211368033
+ctime=1442260726
 done=kde3_2
-mtime=1211368033
+mtime=1442260726
 
 [kioslave.upd]
-ctime=1211368095
+ctime=1442260726
 done=kde2.2/r2,kde2.2/r3
-mtime=1211368095
+mtime=1442260726
 
 [klipper-kconfigxt.upd]
 ctime=1233771516
@@ -79,6 +89,16 @@ mtime=1227089944
 ctime=1204221280
 done=kolab-calendar-resource-rename,kolab-contact-resource-rename,kolab-notes-resource-rename
 mtime=1204221280
+
+[konsole.upd]
+ctime=1414815422
+done=2.9.0-global-options,2.9.0-colorscheme-bold-key,2.10.0-remove-menuindex-from-profiles
+mtime=1414815422
+
+[konsole_remove_background_mode.upd]
+ctime=1414815422
+done=2.11.0-remove-background-mode
+mtime=1414815422
 
 [korganizer.upd]
 ctime=1269624550
@@ -101,14 +121,19 @@ done=kde3
 mtime=1199490912
 
 [ksslcertificatemanager.upd]
-ctime=1233097651
+ctime=1442260726
 done=kde4.2
-mtime=1233097651
+mtime=1442260726
 
 [kuriikwsfilter.upd]
-ctime=1199490896
-done=post-kde3.1/cvs
-mtime=1199490896
+ctime=1440746364
+done=post-kde3.1/cvs,pre-kde4.9
+mtime=1440746364
+
+[kwallet-4.13.upd]
+ctime=1440746364
+done=kde4.13
+mtime=1440746364
 
 [kwin.upd]
 ctime=1199490941
@@ -166,14 +191,19 @@ done=kde33b1
 mtime=1199490941
 
 [mailtransports.upd]
-ctime=1199490802
+ctime=1435149794
 done=initial-kmail-migration,initial-knode-migration
-mtime=1199490802
+mtime=1435149794
 
 [mouse_cursor_theme.upd]
 ctime=1199490914
 done=kde3.4.99
 mtime=1199490914
+
+[okular.upd]
+ctime=1441918285
+done=sep_settings
+mtime=1441918285
 
 [plasma-add-shortcut-to-menu.upd]
 ctime=1253101252
@@ -193,3 +223,8 @@ mtime=1252063916
 ctime=1253101252
 done=4.3plasma-desktop
 mtime=1253101252
+
+[yakuake.upd]
+ctime=1350599726
+done=2.9.9-startupnotification
+mtime=1350599726

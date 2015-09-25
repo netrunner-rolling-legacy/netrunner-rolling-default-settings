@@ -1,16 +1,16 @@
 [KDE Keyboard Layout Switcher]
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
-_k_friendly_name=System Settings
+_k_friendly_name=KDE Daemon
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
-_k_friendly_name=System Settings
+_k_friendly_name=kaccess
 
 [kcm_touchpad]
 Disable Touchpad=Touchpad Off,Touchpad Off,Disable Touchpad
 Enable Touchpad=Touchpad On,Touchpad On,Enable Touchpad
 Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Toggle Touchpad
-_k_friendly_name=System Settings
+_k_friendly_name=KDE Daemon
 
 [kded5]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
@@ -18,27 +18,27 @@ Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Decre
 Hibernate=Hibernate,Hibernate,Hibernate
 Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Increase Keyboard Brightness
 Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Increase Screen Brightness
-PowerOff=Power Off,Power Off,
+PowerOff=Power Off,Power Off,Power Off
 Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
 Sleep=Sleep,Sleep,Sleep
 Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Toggle Keyboard Backlight
-_k_friendly_name=System Settings
+_k_friendly_name=KDE Daemon
 display=Display,Display,Switch Display
 
 [khotkeys]
-_k_friendly_name=System Settings
-{a72c51a0-d5b9-46d1-856e-6b1519083a69}=Print,none,PrintScreen
+_k_friendly_name=KDE Daemon
+{41aaa060-10e3-4fc1-a0d8-cd739f6ea2a1}=Print,none,PrintScreen
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
 
 [kmix]
-_k_friendly_name=System Settings
+_k_friendly_name=Audio Volume
 decrease_volume=Volume Down,Volume Down,Decrease Volume
 increase_volume=Volume Up,Volume Up,Increase Volume
 mute=Volume Mute,Volume Mute,Mute
 mute_volume=,Volume Mute,Mute
 
 [krunner]
-_k_friendly_name=System Settings
+_k_friendly_name=krunner
 run command=Alt+Space\tAlt+F2\tSearch,Alt+Space,Run Command
 run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Run Command on clipboard contents
 
@@ -48,7 +48,7 @@ Lock Session=Ctrl+Alt+L\tScreensaver,Ctrl+Alt+L\tScreensaver,Lock Session
 Log Out=Ctrl+Alt+Del,none,Log Out
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Reboot Without Confirmation
-_k_friendly_name=System Settings
+_k_friendly_name=ksmserver
 
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activate Window Demanding Attention
@@ -193,13 +193,14 @@ Window to Screen 4=none,none,Window to Screen 4
 Window to Screen 5=none,none,Window to Screen 5
 Window to Screen 6=none,none,Window to Screen 6
 Window to Screen 7=none,none,Window to Screen 7
-_k_friendly_name=System Settings
+_k_friendly_name=KWin
 view_actual_size=Meta+0,Meta+0,Actual Size
 view_zoom_in=Meta+=,Meta+=,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [plasmashell]
-_k_friendly_name=System Settings
+_k_friendly_name=Plasma
+activate widget 2=,none,Activate Application Menu Widget
 activate widget 26=Alt+F1,none,Activate Application Menu Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
@@ -216,5 +217,5 @@ show-on-mouse-pos=none,none,Open Klipper at Mouse Position
 stop current activity=Meta+S,Meta+S,Stop Current Activity
 
 [yakuake]
-_k_friendly_name=System Settings
+_k_friendly_name=Yakuake
 toggle-window-state=F12,F12,Open/Retract Yakuake

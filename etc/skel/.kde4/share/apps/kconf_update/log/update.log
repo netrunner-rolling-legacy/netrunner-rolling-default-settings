@@ -1,0 +1,68 @@
+2015-09-25T00:31:36 Checking update-file '/usr/share/apps/kconf_update/devicepreference.upd' for new updates
+2015-09-25T00:31:36 Checking update-file '/usr/share/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
+2015-09-25T00:31:36 drkonqi-rename-config-section.upd: Found new update 'kde-4.11'
+2015-09-25T00:31:36 drkonqi-rename-config-section.upd: File 'drkonqirc' does not exist or empty, skipping
+2015-09-25T00:31:36 Checking update-file '/usr/share/apps/kconf_update/kcookiescfg.upd' for new updates
+2015-09-25T00:31:36 kcookiescfg.upd: Found new update 'kde4.10/git'
+2015-09-25T00:31:37 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/kded.upd' for new updates
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/kgthemeprovider-migration.upd' for new updates
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'bomber'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'bomberrc' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'granatier'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'granatierrc' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'kbounce'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'kbouncerc' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'kbreakout'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'kbreakoutrc' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'kdiamond'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'kdiamondrc' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'killbots'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'killbotsrc' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'klickety'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'klickety' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'klines'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'klines' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'kmines'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'kmines' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'knetwalk'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'knetwalk' does not exist or empty, skipping
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: Found new update 'kpat'
+2015-09-25T00:31:37 kgthemeprovider-migration.upd: File 'kpat' does not exist or empty, skipping
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/kio_help.upd' for new updates
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/kioslave.upd' for new updates
+2015-09-25T00:31:37 kioslave.upd: Found new update 'kde2.2/r1'
+2015-09-25T00:31:37 kioslave.upd: Skipping update 'kde2.2/r1'
+2015-09-25T00:31:37 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/konsole.upd' for new updates
+2015-09-25T00:31:37 konsole.upd: Found new update '2.9.0-global-options'
+2015-09-25T00:31:37 konsole.upd: File 'konsolerc' does not exist or empty, skipping
+2015-09-25T00:31:37 konsole.upd: Found new update '2.9.0-colorscheme-bold-key'
+2015-09-25T00:31:37 konsole.upd: Running script 'konsole-2.9.0-colorscheme-bold-key.sh'
+2015-09-25T00:31:37 konsole.upd: Found new update '2.10.0-remove-menuindex-from-profiles'
+2015-09-25T00:31:37 konsole.upd: Running script 'konsole-2.10.0-remove-menuindex-from-profiles.sh'
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/konsole_remove_background_mode.upd' for new updates
+2015-09-25T00:31:37 konsole_remove_background_mode.upd: Found new update '2.11.0-remove-background-mode'
+2015-09-25T00:31:37 konsole_remove_background_mode.upd: File 'kglobalshortcutsrc' does not exist or empty, skipping
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2015-09-25T00:31:37 kuriikwsfilter.upd: Found new update 'pre-kde4.9'
+2015-09-25T00:31:37 kuriikwsfilter.upd: File 'kuriikwsfilterrc' does not exist or empty, skipping
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/kwallet-4.13.upd' for new updates
+2015-09-25T00:31:37 kwallet-4.13.upd: Found new update 'kde4.13'
+2015-09-25T00:31:37 kwallet-4.13.upd: RemoveKey removes kwalletrc:Wallet:Launch Manager
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/mailtransports.upd' for new updates
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/okular.upd' for new updates
+2015-09-25T00:31:37 okular.upd: Found new update 'sep_settings'
+2015-09-25T00:31:37 okular.upd: File 'okularpartrc' does not exist or empty, skipping
+2015-09-25T00:31:37 Checking update-file '/usr/share/apps/kconf_update/yakuake.upd' for new updates
+2015-09-25T00:31:37 yakuake.upd: Found new update '2.9.9-startupnotification'
+2015-09-25T00:31:37 yakuake.upd: Running script 'yakuake-2.9.9-startupnotification.pl'
+2015-09-25T00:31:37 [Script] perl: warning: Setting locale failed.
+2015-09-25T00:31:37 [Script] perl: warning: Please check that your locale settings:
+2015-09-25T00:31:37 [Script] 	LANGUAGE = "",
+2015-09-25T00:31:37 [Script] 	LC_ALL = (unset),
+2015-09-25T00:31:37 [Script] 	LANG = "en_US.UTF-8"
+2015-09-25T00:31:37 [Script]     are supported and installed on your system.
+2015-09-25T00:31:37 [Script] perl: warning: Falling back to the standard locale ("C").
+2015-09-25T00:31:37 yakuake.upd: Script removes yakuakerc:Dialogs:ShowPopup
