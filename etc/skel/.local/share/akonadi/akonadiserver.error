@@ -1,5 +1,0 @@
-DATABASE ERROR: 
-  Error code: 1062 
-  DB error:  "Duplicate entry 'inode/directory' for key 'name'" 
-  Error text: "Duplicate entry 'inode/directory' for key 'name' QMYSQL3: Unable to execute statement" 
-  Query: "INSERT INTO MimeTypeTable (name) VALUES (:0)" 

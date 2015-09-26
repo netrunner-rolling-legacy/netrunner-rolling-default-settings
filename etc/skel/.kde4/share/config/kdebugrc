@@ -7,19 +7,10 @@ InfoOutput=4
 [kate-filetree]
 InfoOutput=2
 
-[kbuildsycoca4]
-InfoOutput=2
-
 [kdecore (KConfigSkeleton)]
 InfoOutput=2
 
-[kdecore (KLibrary)]
-InfoOutput=2
-
 [kio_trash]
-InfoOutput=4
-
-[knotify]
 InfoOutput=4
 
 [unnamed app]

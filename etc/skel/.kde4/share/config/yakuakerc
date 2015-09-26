@@ -1,6 +1,3 @@
-[$Version]
-update_info=yakuake.upd:2.9.9-startupnotification
-
 [Animation]
 Frames=10
 
@@ -13,6 +10,7 @@ OpenAfterStart=false
 
 [Dialogs]
 FirstRun=false
+ShowPopup=false
 
 [Favorite Profiles]
 Favorites=

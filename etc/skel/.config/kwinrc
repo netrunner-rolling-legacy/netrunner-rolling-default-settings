@@ -1,7 +1,7 @@
 [Compositing]
 AnimationSpeed=1
 GLTextureFilter=1
-OpenGLIsUnsafe=false
+
 
 [Desktops]
 Number=1
