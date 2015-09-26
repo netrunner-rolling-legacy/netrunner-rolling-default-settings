@@ -53,7 +53,7 @@ var pvolumemixer = panel.addWidget("org.kde.plasma.volume")
 
 var systray = panel.addWidget("org.kde.plasma.systemtray")
 systray.currentConfigGroup = ["General"]
-systray.writeConfig("extraItems","org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.ktp-contactlist,org.kde.plasma.ktplegacypresenceapplet,org.kde.muonnotifier,org.kde.plasma.volume,org.kde.muonnotifier")
+systray.writeConfig("extraItems","org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.ktp-contactlist,org.kde.plasma.ktplegacypresenceapplet,org.kde.muonnotifier,kde.muonnotifier")
 systray.writeConfig("hiddenItems","org.kde.plasma.clipboard,kmix,KDE Daemon,org.kde.ktp-contactlist,org.kde.plasma.volume,org.kde.plasma.notifications")
 systray.writeConfig("knownItems","org.kde.kdeconnect,org.kde.ktp-contactlist,org.kde.muonnotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume")
 systray.writeConfig("shownItems", "transmission")
