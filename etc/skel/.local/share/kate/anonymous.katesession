@@ -4,6 +4,7 @@ Encoding=UTF-8
 Highlighting=None
 Indentation Mode=normal
 Mode=Normal
+URL=file:///home/netrunner/.config/plasma-org.kde.plasma.desktop-appletsrc
 
 [Kate Plugins]
 katebacktracebrowserplugin=false
@@ -16,17 +17,20 @@ kategdbplugin=false
 katekonsoleplugin=false
 kateopenheaderplugin=false
 kateprojectplugin=true
+katereplicodeplugin=false
 katesearchplugin=true
 katesnippetsplugin=false
 katesqlplugin=false
 katesymbolviewerplugin=false
 katexmltoolsplugin=false
+kterustcompletionplugin=false
+ktexteditor_lumen=false
 tabswitcherplugin=true
 
 [MainWindow0]
 Active ViewSpace=0
-Kate-MDI-H-Splitter=200,410,200
-Kate-MDI-Sidebar-0-Splitter=426
+Kate-MDI-H-Splitter=200,411,200
+Kate-MDI-Sidebar-0-Splitter=416
 Kate-MDI-Sidebar-1-Splitter=
 Kate-MDI-Sidebar-2-Splitter=
 Kate-MDI-Sidebar-3-Splitter=0
@@ -40,17 +44,30 @@ Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
 Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
 Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
 Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=true
-Kate-MDI-V-Splitter=150,402,200
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Kate-MDI-V-Splitter=150,388,200
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 
 [MainWindow0 Settings]
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 WindowState=8
 
 [MainWindow0-Splitter 0]
 Children=MainWindow0-ViewSpace 0
 Orientation=1
-Sizes=410
+Sizes=411
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/netrunner/.config/plasma-org.kde.plasma.desktop-appletsrc
+Count=1
+Documents=file:///home/netrunner/.config/plasma-org.kde.plasma.desktop-appletsrc
+View 0=file:///home/netrunner/.config/plasma-org.kde.plasma.desktop-appletsrc
+
+[MainWindow0-ViewSpace 0 file:///home/netrunner/.config/plasma-org.kde.plasma.desktop-appletsrc]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
 
 [Open Documents]
 Count=1
@@ -79,4 +96,7 @@ Search=
 SearchDiskFiles=
 SearchDiskFiless=
 UseRegExp=false
- 
+
+[Recent Files]
+File1[$e]=$HOME/.config/plasma-org.kde.plasma.desktop-appletsrc
+Name1[$e]=plasma-org.kde.plasma.desktop-appletsrc
