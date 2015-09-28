@@ -60,7 +60,6 @@ kwin4_effect_maximizeEnabled=false
 kwin4_effect_translucencyEnabled=false
 kwin4_effect_windowapertureEnabled=false
 screenedgeEnabled=false
-slidingpopupsEnabled=false
 synchronizeskipswitcherEnabled=false
 videowallEnabled=false
 windowgeometryEnabled=false
