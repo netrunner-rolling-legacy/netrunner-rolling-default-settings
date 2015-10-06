@@ -15,13 +15,14 @@ player_y=225
 item_count=0
 
 [skins]
-equalizer_x=85
-equalizer_y=350
+equalizer_x=104
+equalizer_y=303
 mainwin_font=Droid Sans Fallback 9
-player_x=85
-player_y=234
+player_x=104
+player_y=187
 playlist_font=Arial 8
-playlist_x=360
-playlist_y=234
+playlist_visible=TRUE
+playlist_x=104
+playlist_y=303
 skin=/usr/share/audacious/Skins/135799-winamp_classic.wsz
 twoway_scroll=TRUE
