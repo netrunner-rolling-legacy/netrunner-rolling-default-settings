@@ -1,12 +1,14 @@
-#!/usr/bin/env xdg-open
-
 [Desktop Entry]
+Comment[en_US]=
 Comment=
 Exec=krunner
+GenericName[en_US]=Krunner
 GenericName=Krunner
 Icon=applications-system
 MimeType=
+Name[en_US]=Krunner
 Name=Krunner
+Name[fr]=krunner.desktop
 NoDisplay=true
 Path=
 StartupNotify=false
@@ -17,4 +19,3 @@ X-DBUS-ServiceName=
 X-DBUS-StartupType=
 X-KDE-SubstituteUID=false
 X-KDE-Username=
-Name[fr]=krunner.desktop
