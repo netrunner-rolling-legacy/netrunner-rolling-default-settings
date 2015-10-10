@@ -40,7 +40,7 @@ wallpaperplugin=org.kde.image
 
 [Containments][1][Applets][2]
 immutability=1
-plugin=org.kde.plasma.kicker
+plugin=org.kde.plasma.netrunnerkicker
 
 [Containments][1][Applets][2][Configuration][General]
 customButtonImage=file:///usr/share/pixmaps/homerun.svgz

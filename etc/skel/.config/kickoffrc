@@ -1,8 +1,8 @@
 [Favorites]
-FavoriteURLs=/usr/share/applications/systemsettings.desktop,/usr/share/applications/org.kde.dolphin.desktop
+FavoriteURLs=/usr/share/applications/kde4/systemsettings.desktop,/usr/share/applications/org.kde.ksysguard.desktop,/usr/share/applications/octopi.desktop,/usr/share/applications/vokoscreen.desktop
 
 [KRunner]
 loadAll=false
 
 [KRunner][PlasmaRunnerManager]
-pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
+pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations,baloosearch
