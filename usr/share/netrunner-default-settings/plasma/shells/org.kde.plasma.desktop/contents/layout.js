@@ -1,5 +1,5 @@
 
-loadTemplate("org.kde.plasma.desktop.defaultPanel")
+loadTemplate("org.kde.plasma.desktop.netrunnerPanel")
 
 // for (var i = 0; i < screenCount; ++i) {
 //     var id = createActivity("Desktop");
