@@ -13,12 +13,6 @@
    <Filename>linguist.desktop</Filename>
    <Filename>qdbusviewer.desktop</Filename>
   </Exclude>
-  <Layout>
-   <Merge type="menus"/>
-   <Menuname>Translation</Menuname>
-   <Menuname>Web Development</Menuname>
-   <Menuname>X-KDE-KDevelopIDE</Menuname>
-  </Layout>
  </Menu>
  <Menu>
   <Name>.hidden</Name>
