@@ -1,0 +1,12 @@
+if [ -z "$XDG_CONFIG_DIRS" ]; then
+  XDG_CONFIG_DIRS=/etc/xdg
+fi  
+export XDG_CONFIG_DIRS=/usr/share/netrunner-default-settings/:$XDG_CONFIG_DIRS
+
+if [ -z "$XDG_DATA_DIRS" ]; then
+  XDG_DATA_DIRS=/usr/share:/usr/share/plasma:/usr/local/share
+fi
+export XDG_DATA_DIRS=/usr/share/netrunner-default-settings:$XDG_DATA_DIRS
+
+# Also explicetly set KDE4 Plugins Path
+export QT_PLUGIN_PATH=$(kde4-config --path qtplugins)

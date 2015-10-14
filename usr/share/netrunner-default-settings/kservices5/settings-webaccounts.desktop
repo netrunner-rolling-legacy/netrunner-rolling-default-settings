@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Service
+Icon=preferences-desktop-user
+X-KDE-ServiceTypes=SystemSettingsCategory
+X-KDE-System-Settings-Category=webaccounts-group
+X-KDE-System-Settings-Parent-Category=personal
+X-KDE-Weight=20
+
+
+Name=Social Accounts

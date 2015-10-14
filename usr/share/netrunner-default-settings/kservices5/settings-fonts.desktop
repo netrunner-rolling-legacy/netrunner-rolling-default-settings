@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=SystemSettingsCategory
+X-KDE-System-Settings-Category=fonts-settings
+X-KDE-System-Settings-Parent-Category=system-administration
+Icon=preferences-desktop-font
+X-KDE-Weight=30
+
+Name=Font Settings

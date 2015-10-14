@@ -1,0 +1,20 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Exec=kcmshell5 sambamount
+Icon=preferences-system-network-sharing
+Type=Service
+
+X-KDE-ServiceTypes=KCModule
+
+X-KDE-Library=kcm_sambamount
+X-KDE-ParentApp=kcontrol
+
+X-KDE-System-Settings-Parent-Category=network-settings
+
+Name=Network Drivers
+
+Comment=Configure mounts managed by KDE instead of fstab
+
+X-KDE-Keywords=Samba,Mount,Fstab
+
+Categories=Qt;KDE;X-KDE-settings-sambamount;
