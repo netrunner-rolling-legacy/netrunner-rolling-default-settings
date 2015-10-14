@@ -19,7 +19,7 @@ ToolBarsMovable=Disabled
 Width 1600=1053
 
 [PreviewSettings]
-Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail,ffmpegthumbs
 
 [SettingsDialog]
 Height 900=380
