@@ -139,7 +139,6 @@
   <Separator weakSeparator="1"/>
   <Separator weakSeparator="1"/>
   <Separator weakSeparator="1"/>
-  <Separator weakSeparator="1"/>
   <Menu noMerge="1" name="tools" alreadyVisited="1">
    <text>&amp;Tools</text>
    <Action name="show_filter_bar"/>
@@ -256,7 +255,6 @@
   <Action name="reload"/>
   <Separator name="separator_3"/>
   <Action name="split_view"/>
-  <Action name="show_terminal_panel"/>
  </ToolBar>
  <State name="new_file">
   <disable>
