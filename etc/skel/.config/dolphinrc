@@ -3,6 +3,7 @@ FontWeight=50
 
 [DetailsMode]
 FontWeight=50
+PreviewSize=16
 
 [General]
 GlobalViewProps=true
