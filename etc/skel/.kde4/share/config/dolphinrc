@@ -5,6 +5,7 @@ FontWeight=50
 FontWeight=50
 
 [General]
+GlobalViewProps=true
 Version=200
 ViewPropsTimestamp=2015,10,14,13,10,52
 
