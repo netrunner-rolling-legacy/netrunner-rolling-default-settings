@@ -67,10 +67,10 @@
    <Filename>hplip.desktop</Filename>
    <Filename>vmware-user.desktop</Filename>
    <Filename>org.kde.ktplogviewer.desktop</Filename>
-  </Include>
-  <Exclude>
+   <Filename>org.kde.klipper.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
-  </Exclude>
+  </Include>
+  <Exclude/>
  </Menu>
  <Menu>
   <Name>Education</Name>
@@ -191,12 +191,13 @@
    <Filename>kde4-k3b.desktop</Filename>
    <Filename>virtualbox.desktop</Filename>
    <Filename>imagewriter.desktop</Filename>
-   <Filename>org.kde.importwizard.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>org.kde.kalarm.desktop</Filename>
    <Filename>org.kde.knotes.desktop</Filename>
    <Filename>hplip.desktop</Filename>
+   <Filename>org.kde.klipper.desktop</Filename>
+   <Filename>org.kde.importwizard.desktop</Filename>
   </Exclude>
   <Menu>
    <Name>More</Name>

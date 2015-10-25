@@ -130,22 +130,22 @@ DisabledValue=1
 Size=32
 
 [General]
-BrowserApplication[$e]=firefox.desktop
+BrowserApplication[$e]=google-chrome.desktop
 ColorScheme=Carbon
 Name=Carbon
 XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
-fixed=DejaVu Sans Mono,9,-1,5,50,0,0,0,0,0
-font=DejaVu Sans,9,-1,5,50,0,0,0,0,0
-menuFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
+fixed=DejaVu Sans Mono,10,-1,5,50,0,0,0,0,0
+font=Noto Sans,10,-1,5,50,0,0,0,0,0
+menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
-smallestReadableFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
-toolBarFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
+smallestReadableFont=Noto Sans,9,-1,5,50,0,0,0,0,0
+toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 widgetStyle=breeze
 
 [Icons]
-Theme=oxygen
+Theme=breeze
 
 [KDE]
 ColorScheme=Oxygen Cold
@@ -263,7 +263,7 @@ Size=22
 [WM]
 activeBackground=44,68,95
 activeBlend=255,255,255
-activeFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
+activeFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 activeForeground=255,255,255
 inactiveBackground=44,68,95
 inactiveBlend=75,71,67

@@ -1,5 +1,6 @@
 [Common]
-ShadowStrength=89
+ShadowSize=50
+ShadowStrength=191
 
 [Windeco]
 AnimationsEnabled=false
