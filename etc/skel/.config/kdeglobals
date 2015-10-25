@@ -148,7 +148,7 @@ widgetStyle=breeze
 Theme=breeze
 
 [KDE]
-ColorScheme=Oxygen Cold
+ColorScheme=Carbon
 LookAndFeelPackage=org.kde.blue.desktop
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=false
