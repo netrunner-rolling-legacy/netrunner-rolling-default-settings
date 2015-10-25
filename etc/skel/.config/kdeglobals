@@ -130,7 +130,7 @@ DisabledValue=1
 Size=32
 
 [General]
-BrowserApplication[$e]=google-chrome.desktop
+BrowserApplication[$e]=firefox.desktop
 ColorScheme=Carbon
 Name=Carbon
 XftAntialias=true
