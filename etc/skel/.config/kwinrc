@@ -56,13 +56,19 @@ blurEnabled=true
 contrastEnabled=true
 enforcedecoEnabled=false
 kwin4_effect_fadeEnabled=true
+kwin4_effect_fadedesktopEnabled=false
 kwin4_effect_maximizeEnabled=false
 kwin4_effect_translucencyEnabled=false
 kwin4_effect_windowapertureEnabled=false
 screenedgeEnabled=false
+slideEnabled=true
 synchronizeskipswitcherEnabled=false
 videowallEnabled=false
 windowgeometryEnabled=false
+
+[Script-desktopchangeosd]
+PopupHideDelay=1000
+TextOnly=false
 
 [Style]
 BorderSize=1
@@ -75,6 +81,9 @@ ShowToolTips=false
 [TabBox]
 BorderActivate=9
 BorderAlternativeActivate=9
+DesktopLayout=org.kde.blue.desktop
+DesktopListLayout=org.kde.blue.desktop
+LayoutName=org.kde.blue.desktop
 
 [Windows]
 ActiveMouseScreen=false
@@ -102,6 +111,7 @@ MaximizeButtonMiddleClickCommand=Maximize (vertical only)
 MaximizeButtonRightClickCommand=Maximize (horizontal only)
 NextFocusPrefersMouse=false
 Placement=Centered
+RollOverDesktops=true
 SeparateScreenFocus=false
 ShadeHover=false
 ShadeHoverInterval=250
