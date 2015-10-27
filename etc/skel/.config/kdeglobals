@@ -149,7 +149,7 @@ Theme=breeze
 
 [KDE]
 ColorScheme=Carbon
-LookAndFeelPackage=org.kde.blue.desktop
+LookAndFeelPackage=org.kde.netrunner.desktop
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=false
 SingleClick=false
