@@ -4,7 +4,7 @@ kcminputrc_mouse_cursortheme=white-classicia++
 # kcminputrc Mouse cursorSize ''
 kcminputrc_mouse_cursorsize=0
 # ksplashrc KSplash Theme Breeze
-ksplashrc_ksplash_theme=org.kde.netrunner.desktop
+ksplashrc_ksplash_theme=org.kde.netrunner-blue-x.desktop
 # ksplashrc KSplash Engine KSplashQML
 ksplashrc_ksplash_engine=KSplashQML
 # kdeglobals KScreen ScaleFactor 1

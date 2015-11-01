@@ -81,9 +81,9 @@ ShowToolTips=false
 [TabBox]
 BorderActivate=9
 BorderAlternativeActivate=9
-DesktopLayout=org.kde.netrunner.desktop
-DesktopListLayout=org.kde.netrunner.desktop
-LayoutName=org.kde.netrunner.desktop
+DesktopLayout=org.kde.netrunner-blue-x.desktop
+DesktopListLayout=org.kde.netrunner-blue-x.desktop
+LayoutName=org.kde.netrunner-blue-x.desktop
 
 [Windows]
 ActiveMouseScreen=false
