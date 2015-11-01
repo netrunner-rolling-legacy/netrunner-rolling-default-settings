@@ -1,0 +1,75 @@
+[Calendar]
+Default Calendar=-1
+
+[CollectionTreeView]
+Expansion=
+HorizontalScroll=0
+VerticalScroll=0
+
+[ConfigureAgentsWidget]
+splitter=511,128
+
+[General]
+CalendarFilters=
+Current Filter=
+Current View=Agenda
+Range Mode=5
+
+[GlobalCollectionSelection]
+Current=x-1
+Selection=
+
+[GlobalCollectionView]
+Expansion=
+HorizontalScroll=0
+VerticalScroll=0
+
+[KOrganizer Geometry]
+Separator1=310,402
+Separator2=133,0,141,166
+
+[MainWindow]
+Height 900=527
+State=AAAA/wAAAAD9AAAAAAAAAxAAAAG0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=784
+
+[MainWindowkontact_kaddressbookplugin]
+Height 900=581
+State=AAAA/wAAAAD9AAAAAAAAA5MAAAHgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABuAGEAdgBpAGcAYQB0AG8AcgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+Width 1600=915
+
+[MainWindowkontact_korganizerplugin]
+Height 900=527
+State=AAAA/wAAAAD9AAAAAAAAAxAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAUAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABuAGEAdgBpAGcAYQB0AG8AcgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAkAGsAbwByAGcAYQBuAGkAegBlAHIAXwB0AG8AbwBsAGIAYQByAQAAAhv/////AAAAAAAAAAAAAAAgAHMAYwBoAGUAZAB1AGwAZQBfAHQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAZgBpAGwAdABlAHIAXwB0AG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+Width 1600=784
+
+[Migratekde4]
+Version=1
+
+[Settings]
+DateNavigatorVisible=true
+EventViewerVisible=true
+ResourceViewVisible=true
+TodoViewVisible=false
+
+[Sidebar Todo View]
+ColumnOrder=0,1,2,3,4,5,6,7,8
+ColumnVisibility=true,false,false,false,true,true,false,false,false
+ColumnWidths=90,0,0,0,97,89,0,0,0
+SortAscending=1
+SortColumn=0
+
+[Timescale]
+Timescale Timezones=
+
+[TodoTreeViewStateS]
+Current=x-1
+Expansion=
+HorizontalScroll=0
+Selection=
+VerticalScroll=0
+
+[Views]
+Separator AgendaView=75,346
+ShownDatesCount=7
