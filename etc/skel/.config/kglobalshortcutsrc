@@ -27,7 +27,7 @@ display=Display,Display,Switch Display
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
-{a4e4ae96-8cfd-449c-a264-be30a0c9f920}=Print,none,PrintScreen
+{c0a88a40-16d2-4dee-9564-2142f9b058bd}=Print,none,PrintScreen
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
 
 [kmix]
@@ -36,6 +36,11 @@ decrease_volume=Volume Down,Volume Down,Decrease Volume
 increase_volume=Volume Up,Volume Up,Increase Volume
 mute=Volume Mute,Volume Mute,Mute
 mute_volume=,Volume Mute,Mute
+
+[konversation]
+_k_friendly_name=konversation
+next_active_tab=none,none,Next Active Tab
+toggle_mainwindow_visibility=none,none,Show/Hide Konversation
 
 [krunner]
 _k_friendly_name=krunner
@@ -200,7 +205,7 @@ view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [plasmashell]
 _k_friendly_name=Plasma
-activate widget 2=Alt+F1,none,Activate Application Menu Widget
+activate widget 2=Alt+F1,none,Activate Netrunner Menu Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
 cycleNextAction=none,none,Next History Item
