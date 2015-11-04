@@ -27,7 +27,7 @@ display=Display,Display,Switch Display
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
-{c0a88a40-16d2-4dee-9564-2142f9b058bd}=Print,none,PrintScreen
+{a4e4ae96-8cfd-449c-a264-be30a0c9f920}=Print,none,PrintScreen
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
 
 [kmix]
@@ -36,11 +36,6 @@ decrease_volume=Volume Down,Volume Down,Decrease Volume
 increase_volume=Volume Up,Volume Up,Increase Volume
 mute=Volume Mute,Volume Mute,Mute
 mute_volume=,Volume Mute,Mute
-
-[konversation]
-_k_friendly_name=konversation
-next_active_tab=none,none,Next Active Tab
-toggle_mainwindow_visibility=none,none,Show/Hide Konversation
 
 [krunner]
 _k_friendly_name=krunner
