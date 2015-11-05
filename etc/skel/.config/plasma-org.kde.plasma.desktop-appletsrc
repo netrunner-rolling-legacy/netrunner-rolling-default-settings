@@ -139,7 +139,7 @@ url=/usr/share/applications/krunner.desktop
 AppletOrder=2;3;4;5;6;7;8;9
 
 [Containments][10]
-activityId=ca4ae77d-988a-496a-a592-6e98f3703553
+activityId=49442035-8f68-4d86-94f9-17d0c6a8e2eb
 formfactor=0
 immutability=1
 lastScreen=0
@@ -149,7 +149,7 @@ wallpaperplugin=org.kde.image
 
 [Containments][10][General]
 popups=false
-positions=1,11,desktop:/mycomputer.desktop,0,0,desktop:/Readme.desktop,0,2,desktop:/Network,0,1
+positions=1,11,desktop:/Readme.desktop,0,2,desktop:/calamares.desktop,0,3,desktop:/mycomputer.desktop,0,0,desktop:/Network,0,1
 pressToMove=true
 selectionMarkers=false
 showToolbox=false
@@ -158,5 +158,5 @@ sortMode=-1
 [Containments][10][Wallpaper][org.kde.image][General]
 FillMode=2
 Image=file:///usr/share/wallpapers/netrunner/Netrunner Rolling.png
-height=900
+height=773
 width=1600
