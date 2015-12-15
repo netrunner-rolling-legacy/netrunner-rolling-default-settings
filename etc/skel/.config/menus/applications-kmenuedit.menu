@@ -69,6 +69,7 @@
    <Filename>org.kde.ktplogviewer.desktop</Filename>
    <Filename>org.kde.klipper.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
+   <Filename>steam.desktop</Filename>
   </Include>
   <Exclude/>
  </Menu>
@@ -119,6 +120,7 @@
    <Filename>org.kde.pimsettingexporter.desktop</Filename>
    <Filename>org.kde.knetattach.desktop</Filename>
    <Filename>org.kde.ktplogviewer.desktop</Filename>
+   <Filename>steam.desktop</Filename>
   </Exclude>
   <Include>
    <Filename>org.kde.kontact.desktop</Filename>
