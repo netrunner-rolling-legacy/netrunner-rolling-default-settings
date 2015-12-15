@@ -74,49 +74,49 @@ url=/usr/share/applications/kde4/yakuake.desktop
 
 [Containments][1][Applets][5]
 immutability=1
-plugin=org.kde.plasma.volume
-
-[Containments][1][Applets][6]
-immutability=1
 plugin=org.kde.plasma.systemtray
 
-[Containments][1][Applets][6][Configuration][Containments][11]
+[Containments][1][Applets][5][Configuration][Containments][11]
 formfactor=2
 location=4
 
-[Containments][1][Applets][6][Configuration][Containments][11][Applets][12]
+[Containments][1][Applets][5][Configuration][Containments][11][Applets][12]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
-[Containments][1][Applets][6][Configuration][Containments][11][Applets][13]
+[Containments][1][Applets][5][Configuration][Containments][11][Applets][13]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
-[Containments][1][Applets][6][Configuration][Containments][11][Applets][14]
+[Containments][1][Applets][5][Configuration][Containments][11][Applets][14]
 immutability=1
 plugin=org.kde.plasma.printmanager
 
-[Containments][1][Applets][6][Configuration][Containments][11][Applets][15]
+[Containments][1][Applets][5][Configuration][Containments][11][Applets][15]
 immutability=1
 plugin=org.kde.muonnotifier
 
-[Containments][1][Applets][6][Configuration][Containments][11][Applets][16]
+[Containments][1][Applets][5][Configuration][Containments][11][Applets][16]
 immutability=1
 plugin=org.kde.plasma.battery
 
-[Containments][1][Applets][6][Configuration][Containments][11][Applets][17]
+[Containments][1][Applets][5][Configuration][Containments][11][Applets][17]
 immutability=1
 plugin=org.kde.ktp-contactlist
 
-[Containments][1][Applets][6][Configuration][Containments][11][Applets][18]
+[Containments][1][Applets][5][Configuration][Containments][11][Applets][18]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
-[Containments][1][Applets][6][Configuration][General]
+[Containments][1][Applets][5][Configuration][General]
 extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.ktp-contactlist,org.kde.plasma.ktplegacypresenceapplet,org.kde.muonnotifier,kde.muonnotifier
 hiddenItems=org.kde.plasma.clipboard,kmix,KDE Daemon,org.kde.ktp-contactlist,org.kde.plasma.volume,org.kde.plasma.notifications
 knownItems=org.kde.kdeconnect,org.kde.ktp-contactlist,org.kde.muonnotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume
 shownItems=transmission,cantata
+
+[Containments][1][Applets][6]
+immutability=1
+plugin=org.kde.plasma.volume
 
 [Containments][1][Applets][7]
 immutability=1
