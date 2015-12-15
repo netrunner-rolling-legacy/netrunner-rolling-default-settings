@@ -3,18 +3,16 @@ accessKWallet=false
 
 [MainWindow]
 Height 989=617
-State=AAAA/wAAAAD9AAAAAgAAAAAAAADQAAACU/wCAAAAA/wAAAAWAAACUwAAAQQA////+gAAAAECAAAAA/sAAAAUAHMAZQBhAHIAYwBoAEQAbwBjAGsAAAAAAP////8AAACHAP////sAAAAWAHIAbwB1AHQAaQBuAGcARABvAGMAawEAAAAA/////wAAAQQA////+wAAABgAbABvAGMAYQB0AGkAbwBuAEQAbwBjAGsAAAAAAP////8AAADFAP////sAAAAYAGYAaQBsAGUAVgBpAGUAdwBEAG8AYwBrAAAAAAD/////AAAAiQD////7AAAAEAB0AG8AdQByAEQAbwBjAGsAAAAAAP////8AAAC4AP///wAAAAEAAADNAAACU/wCAAAAAfwAAAAWAAACUwAAAUYBAAAX+gAAAAABAAAAAvsAAAAWAG0AYQBwAFYAaQBlAHcARABvAGMAawEAAAAA/////wAAAKQA////+wAAABQAbABlAGcAZQBuAGQARABvAGMAawEAAAGkAAAAzQAAAFEA////AAACGgAAAlMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAgAAAAAAAADQAAABwvwCAAAABPwAAAAeAAABwgAAASwA////+gAAAAECAAAAA/sAAAAUAHMAZQBhAHIAYwBoAEQAbwBjAGsAAAAAAP////8AAACSAQAAA/sAAAAWAHIAbwB1AHQAaQBuAGcARABvAGMAawEAAAAA/////wAAASwBAAAD+wAAABgAbABvAGMAYQB0AGkAbwBuAEQAbwBjAGsAAAAAAP////8AAAD4AQAAA/sAAAAYAGYAaQBsAGUAVgBpAGUAdwBEAG8AYwBrAAAAAAD/////AAAAlAEAAAP7AAAAEAB0AG8AdQByAEQAbwBjAGsAAAAAAP////8AAADEAQAAA/sAAAAYAGEAbgBuAG8AdABhAHQAZQBEAG8AYwBrAAAAAAD/////AAAAUAEAAAMAAAABAAAA6wAAAxz8AgAAAAH8AAAAHgAAAxwAAAAAAP////r/////AQAAAAL7AAAAFgBtAGEAcABWAGkAZQB3AEQAbwBjAGsAAAAAAP////8AAADrAQAAA/sAAAAUAGwAZQBnAGUAbgBkAEQAbwBjAGsAAAABpAAAAM0AAABgAQAAAwAAAa8AAAHCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1920=963
 
 [MarbleWidget]
-homeLatitude=54.8
+homeLatitude=54.800000000000004
 mapTheme=earth/openstreetmap/openstreetmap.dgml
-quitLatitude=0.66650928314084
-quitLongitude=-0.473104682860671
-quitRange=13956011.4959423
 projection=2
+quitRange=9352920.6432131194
 
 [Routing Profiles]
 Num=4
@@ -112,7 +110,7 @@ method=shortest
 transport=foot
 
 [Time]
-dateTime=2014,12,8,13,31,0
+dateTime=2015,12,15,14,52,0
 
 [Tracking]
 lastTrackOpenPath=
@@ -157,6 +155,15 @@ position=-1,10
 theme=0
 visible=false
 
+[plugin_coordinate-grid]
+enabled=false
+equatorColor=#ffff00
+gridColor=#ffffff
+primarylabels=true
+secondaryLabels=true
+tropicsColor=#ffff00
+visible=true
+
 [plugin_crosshairs]
 enabled=true
 theme=0
@@ -164,11 +171,13 @@ visible=false
 
 [plugin_earthquake]
 enabled=true
-endDate=-4713,1,1,0,0,0
+endDate=0,0,0,-1,-1,-1
 maximumNumberOfItems=100
 minMagnitude=0
 numResults=20
-startDate=-4713,1,1,0,0,0
+pastDays=30
+startDate=0,0,0,-1,-1,-1
+timeRangeNPastDays=true
 visible=false
 
 [plugin_eclipses]
@@ -195,8 +204,21 @@ visible=true
 
 [plugin_measure-tool]
 enabled=true
+paintMode=0
+showBearingChangeLabel=true
 showBearingLabel=true
+showCircularArea=true
+showCircumference=true
 showDistanceLabel=true
+showPerimeter=true
+showPolygonArea=false
+showRadius=true
+visible=true
+
+[plugin_navigation]
+enabled=true
+position=-10,-30
+showHomeButton=true
 visible=true
 
 [plugin_opencaching.com]
@@ -208,6 +230,26 @@ enabled=true
 itemsOnScreen=15
 visible=false
 
+[plugin_overviewmap]
+enabled=false
+height=95
+path_earth=/usr/share/marble/data/svg/worldmap.svg
+path_jupiter=/usr/share/marble/data/svg/worldmap.svg
+path_mars=/usr/share/marble/data/svg/marsmap.svg
+path_mercury=/usr/share/marble/data/svg/worldmap.svg
+path_moon=/usr/share/marble/data/svg/lunarmap.svg
+path_neptune=/usr/share/marble/data/svg/worldmap.svg
+path_pluto=/usr/share/marble/data/svg/worldmap.svg
+path_saturn=/usr/share/marble/data/svg/worldmap.svg
+path_sky=/usr/share/marble/data/svg/worldmap.svg
+path_sun=/usr/share/marble/data/svg/worldmap.svg
+path_uranus=/usr/share/marble/data/svg/worldmap.svg
+path_venus=/usr/share/marble/data/svg/worldmap.svg
+posColor=#ffffff
+position=10.5,10.5
+visible=true
+width=175
+
 [plugin_photo]
 checkState=1,2,3,4,5,6,7
 enabled=true
@@ -216,7 +258,7 @@ visible=false
 
 [plugin_positionMarker]
 acColor=invalid
-cursorPath=/usr/share/kde4/apps/marble/data/svg/track_turtle.svg
+cursorPath=/usr/share/marble/data/svg/track_turtle.svg
 cursorSize=1
 enabled=true
 showTrail=false
@@ -247,6 +289,11 @@ enabled=true
 idList=http://www.celestrak.com/NORAD/elements/visual.txt
 userDataSources=http://files.kde.org/marble/satellites/PlanetarySatellites.msc
 visible=false
+
+[plugin_scalebar]
+enabled=false
+position=10.5,-10.5
+visible=true
 
 [plugin_speedometer]
 enabled=true
@@ -298,18 +345,3 @@ enabled=true
 numberOfItems=15
 showThumbnails=true
 visible=false
-
-[plugin_coordinate-grid]
-enabled=false
-
-[plugin_navigation]
-enabled=true
-showHomeButton=true
-
-[plugin_overviewmap]
-enabled=false
-visible=true
-
-[plugin_scalebar]
-enabled=false
-visible=true
