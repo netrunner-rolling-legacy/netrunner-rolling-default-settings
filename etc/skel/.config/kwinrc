@@ -1,7 +1,7 @@
 [Compositing]
 AnimationSpeed=0
 GLPreferBufferSwap=p
-GLTextureFilter=0
+GLTextureFilter=2
 
 
 [Desktops]
