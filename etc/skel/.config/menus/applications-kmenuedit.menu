@@ -99,7 +99,9 @@
    <Filename>libreoffice-draw.desktop</Filename>
    <Filename>kde4-okularApplication_wpd_calligra.desktop</Filename>
   </Exclude>
- </Menu>
+  <Include>
+   <Filename>org.kde.spectacle.desktop</Filename>
+  </Include>
  <Menu>
   <Name>Internet</Name>
   <Exclude>
@@ -200,6 +202,7 @@
    <Filename>hplip.desktop</Filename>
    <Filename>org.kde.klipper.desktop</Filename>
    <Filename>org.kde.importwizard.desktop</Filename>
+   <Filename>org.kde.spectacle.desktop</Filename>
   </Exclude>
   <Menu>
    <Name>More</Name>
