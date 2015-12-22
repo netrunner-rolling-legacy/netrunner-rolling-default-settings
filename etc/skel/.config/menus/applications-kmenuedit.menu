@@ -102,6 +102,7 @@
   <Include>
    <Filename>org.kde.spectacle.desktop</Filename>
   </Include>
+  </Menu>
  <Menu>
   <Name>Internet</Name>
   <Exclude>
