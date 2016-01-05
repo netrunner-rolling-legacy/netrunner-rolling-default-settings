@@ -1,8 +1,0 @@
-[Common]
-UseBackgroundGradient=false
-
-[Style]
-AnimationsEnabled=false
-HighlightFrames=false
-ViewSelectionHasBorder=false
-WindowDragMode=WD_NONE

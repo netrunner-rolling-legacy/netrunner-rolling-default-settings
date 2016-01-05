@@ -1,6 +1,0 @@
-[Daemon]
-Autolock=false
-Timeout=0
-
-[Greeter]
-Theme=org.kde.netrunner-blue-x.desktop
