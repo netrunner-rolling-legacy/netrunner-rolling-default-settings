@@ -40,7 +40,7 @@ wallpaperplugin=org.kde.image
 
 [Containments][1][Applets][2]
 immutability=1
-plugin=org.kde.plasma.netrunnerkicker
+plugin=org.kde.plasma.kickerdash
 
 [Containments][1][Applets][2][Configuration][Shortcuts]
 global=Alt+F1
