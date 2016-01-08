@@ -1,17 +1,6 @@
-[ConfigDialog]
-Height 900=251
-Width 1600=372
-
-[KFileDialog Settings]
-Recent Files[$e]=Carbon.colors,$HOME/.kde4/share/apps/color-schemes/Carbon.colors
-Recent URLs[$e]=$HOME/.kde4/,/home/netrunner.kde4/,$HOME/.kde4/share/apps/color-schemes/
-
-[Main]
-ShowToolTips=false
-
 [MainWindow]
-Height 900=560
+Height 900=572
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA3oAAAIKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA3kAAAIWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1600=890
+Width 1600=889

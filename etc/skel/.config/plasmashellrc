@@ -1,7 +1,94 @@
+[Containments][1][General]
+AppletOrder=2;19;3;4;5;6;7;8;9
+
+[PlasmaViews][Panel 1][Horizontal1024]
+thickness=45
+alignment=132
+length=710
+maxLength=710
+minLength=710
+
+[PlasmaViews][Panel 1][Horizontal1152]
+thickness=45
+alignment=132
+length=800
+maxLength=800
+minLength=800
+
+[PlasmaViews][Panel 1][Horizontal1200]
+thickness=45
+alignment=132
+length=840
+maxLength=840
+minLength=840
+
+[PlasmaViews][Panel 1][Horizontal1280]
+thickness=45
+alignment=132
+length=890
+maxLength=890
+minLength=890
+
 [PlasmaViews][Panel 1][Horizontal1366]
-panelVisibility=0
-thickness=34
+thickness=45
+alignment=132
+length=950
+maxLength=950
+minLength=950
+
+[PlasmaViews][Panel 1][Horizontal1440]
+thickness=45
+alignment=132
+length=1000
+maxLength=1000
+minLength=1000
+
+[PlasmaViews][Panel 1][Horizontal1600]
+thickness=45
+alignment=132
+length=1120
+maxLength=1120
+minLength=1120
+
+[PlasmaViews][Panel 1][Horizontal1680]
+thickness=45
+alignment=132
+length=1170
+maxLength=1170
+minLength=1170
+
+[PlasmaViews][Panel 1][Horizontal1900]
+thickness=45
+alignment=132
+length=1330
+maxLength=1330
+minLength=1330
 
 [PlasmaViews][Panel 1][Horizontal1920]
-panelVisibility=0
-thickness=34
+thickness=45
+alignment=132
+length=1340
+maxLength=1340
+minLength=1340
+
+[PlasmaViews][Panel 1][Horizontal2048]
+thickness=45
+alignment=132
+length=1430
+maxLength=1430
+minLength=1430
+
+[PlasmaViews][Panel 1][Horizontal800]
+thickness=45
+alignment=132
+length=560
+maxLength=560
+minLength=560
+
+[PlasmaViews][Panel 1][Horizontal864]
+thickness=45
+alignment=132
+length=600
+maxLength=600
+minLength=600
+

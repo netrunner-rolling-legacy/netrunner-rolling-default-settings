@@ -42,12 +42,6 @@ wallpaperplugin=org.kde.image
 immutability=1
 plugin=org.kde.plasma.netrunnerkicker
 
-[Containments][1][Applets][2][Configuration][General]
-customButtonImage=file:///usr/share/pixmaps/homerun.svgz
-favoriteApps=systemsettings.desktop,org.kde.ksysguard.desktop,octopi.desktop,vokoscreen.desktop
-limitDepth=true
-useCustomButtonImage=true
-
 [Containments][1][Applets][2][Configuration][Shortcuts]
 global=Alt+F1
 
@@ -60,10 +54,12 @@ plugin=org.kde.plasma.expandingiconstaskmanager
 
 [Containments][1][Applets][3][Configuration][Configuration][General]
 launchers=file:///usr/share/applications/org.kde.dolphin.desktop?wmClass=Dolphin,file:///usr/share/applications/firefox.desktop
+maxStripes=1
 showOnlyCurrentDesktop=true
 
 [Containments][1][Applets][3][Configuration][General]
 launchers=file:///usr/share/applications/org.kde.dolphin.desktop?wmClass=Dolphin,file:///usr/share/applications/firefox.desktop
+maxStripes=1
 showOnlyCurrentDesktop=true
 
 [Containments][1][Applets][4]
@@ -84,48 +80,40 @@ plugin=org.kde.plasma.volume
 immutability=1
 plugin=org.kde.plasma.systemtray
 
-[Containments][1][Applets][6][Configuration][ConfigDialog]
-DialogHeight=420
-DialogWidth=560
-
 [Containments][1][Applets][6][Configuration][Containments][11]
 formfactor=2
 location=4
 
 [Containments][1][Applets][6][Configuration][Containments][11][Applets][12]
 immutability=1
-plugin=org.kde.plasma.volume
+plugin=org.kde.plasma.clipboard
 
 [Containments][1][Applets][6][Configuration][Containments][11][Applets][13]
 immutability=1
-plugin=org.kde.plasma.clipboard
+plugin=org.kde.plasma.devicenotifier
 
 [Containments][1][Applets][6][Configuration][Containments][11][Applets][14]
 immutability=1
-plugin=org.kde.plasma.devicenotifier
+plugin=org.kde.plasma.printmanager
 
 [Containments][1][Applets][6][Configuration][Containments][11][Applets][15]
 immutability=1
-plugin=org.kde.plasma.printmanager
+plugin=org.kde.muonnotifier
 
 [Containments][1][Applets][6][Configuration][Containments][11][Applets][16]
 immutability=1
-plugin=org.kde.muonnotifier
+plugin=org.kde.plasma.battery
 
 [Containments][1][Applets][6][Configuration][Containments][11][Applets][17]
 immutability=1
-plugin=org.kde.plasma.battery
-
-[Containments][1][Applets][6][Configuration][Containments][11][Applets][18]
-immutability=1
 plugin=org.kde.ktp-contactlist
 
-[Containments][1][Applets][6][Configuration][Containments][11][Applets][19]
+[Containments][1][Applets][6][Configuration][Containments][11][Applets][18]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][1][Applets][6][Configuration][General]
-extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.ktp-contactlist,org.kde.plasma.ktplegacypresenceapplet,org.kde.muonnotifier,org.kde.muonnotifier
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.ktp-contactlist,org.kde.plasma.ktplegacypresenceapplet,org.kde.muonnotifier,kde.muonnotifier
 hiddenItems=org.kde.plasma.clipboard,kmix,KDE Daemon,org.kde.ktp-contactlist,org.kde.plasma.volume,org.kde.plasma.notifications
 knownItems=org.kde.kdeconnect,org.kde.ktp-contactlist,org.kde.muonnotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume
 shownItems=transmission,cantata
@@ -156,12 +144,12 @@ formfactor=0
 immutability=1
 lastScreen=0
 location=0
-plugin=org.kde.plasma.folder
+plugin=org.kde.netrunnerdesktop
 wallpaperplugin=org.kde.image
 
 [Containments][10][General]
 popups=false
-positions=1,13,desktop:/mycomputer.desktop,0,0,desktop:/Network,0,1,desktop:/Readme.desktop,0,2,desktop:/calamares.desktop,0,3
+positions=1,11,desktop:/Readme.desktop,0,2,desktop:/calamares.desktop,0,3,desktop:/mycomputer.desktop,0,0,desktop:/Network,0,1
 pressToMove=true
 selectionMarkers=false
 showToolbox=false
@@ -169,6 +157,6 @@ sortMode=-1
 
 [Containments][10][Wallpaper][org.kde.image][General]
 FillMode=2
-Image=file:///usr/share/wallpapers/rolling-wallpaper-10.png
-height=900
+Image=file:///usr/share/wallpapers/netrunner/Netrunner Rolling.png
+height=773
 width=1600
