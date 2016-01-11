@@ -1,3 +1,9 @@
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Favorite Profiles]
+Favorites=
+
 [General]
 Config Revision=10
 Days Meta Infos=30
@@ -13,10 +19,11 @@ Show Tab Bar=true
 Startup Session=manual
 
 [MainWindow]
-Height 900=602
-State=AAAA/wAAAAD9AAAAAAAAA60AAAIaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 900=484
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAsoAAAG+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1600=941
+Width 1600=714
 Window-Maximized 768x1024=true
 
 [filetree]
