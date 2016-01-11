@@ -245,6 +245,7 @@
   <Action name="compact"/>
   <Action name="details"/>
   <Action name="show_in_groups"/>
+  <Action name="sort"/>
   <Separator name="separator_1"/>
   <Action name="show_hidden_files"/>
   <Action name="show_preview"/>
