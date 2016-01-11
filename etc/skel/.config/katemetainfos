@@ -1,43 +1,25 @@
-[file:///home/jamesk/.config/katepartrc]
+[file:///home/netrunner/.local/share/dolphin/view_properties/global/.directory]
 Bookmarks=
-Checksum=19f350db758643954a813644a3da26048478b9e9
+Checksum=1cb9e938176f92247b0e35dffdce7d1959be392c
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
-Time=2016,1,11,2,45,37
-URL=file:///home/jamesk/.config/katepartrc
+Time=2016,1,11,5,29,32
+URL=file:///home/netrunner/.local/share/dolphin/view_properties/global/.directory
 
-[file:///home/jamesk/.local/share/kate/anonymous.katesession]
+[file:///run/media/netrunner/840cc5b8-fd5e-4c20-8d51-2b64c7fe67ed/home/jamesk/Netrunner/Netrunner-git/netrunner-rolling-default-settings/etc/skel/.local/share/kxmlgui5/dolphin/dolphinui.rc]
 Bookmarks=
-Checksum=4a92d6ca8f1ae5083dea79cf0ba164c81e00ca2d
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Time=2016,1,11,2,45,49
-URL=file:///home/jamesk/.local/share/kate/anonymous.katesession
-
-[file:///home/jamesk/Netrunner/Netrunner-git/netrunner-rolling-default-settings/etc/skel/.config/kateschemarc]
-Bookmarks=
-Checksum=3d5abc5948fef64329f6ed5bcae29c2f6dd08710
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Time=2016,1,11,2,44,16
-URL=file:///home/jamesk/Netrunner/Netrunner-git/netrunner-rolling-default-settings/etc/skel/.config/kateschemarc
-
-[file:///home/jamesk/Netrunner/Netrunner-git/netrunner-rolling-default-settings/etc/skel/.local/share/kxmlgui5/kate/kateui.rc]
-Bookmarks=
-Checksum=c796298cc68c74b3946e5783c1f8c1b7ef27d8c5
+Checksum=650506e9e9fd53ceba132cb2fff8b3024c7e385c
 Encoding=UTF-8
 Highlighting=XML
 Highlighting Set By User=false
 Indentation Mode=xml
 Mode=XML
-Time=2016,1,11,2,49,25
-URL=file:///home/jamesk/Netrunner/Netrunner-git/netrunner-rolling-default-settings/etc/skel/.local/share/kxmlgui5/kate/kateui.rc
+Time=2016,1,11,5,31,12
+URL=file:///run/media/netrunner/840cc5b8-fd5e-4c20-8d51-2b64c7fe67ed/home/jamesk/Netrunner/Netrunner-git/netrunner-rolling-default-settings/etc/skel/.local/share/kxmlgui5/dolphin/dolphinui.rc
+
+[file:///tmp/kate.kn1952]
+Checksum=98445b47bfac9bd514905efefc30b145df4f82ea
+Time=2016,1,11,5,29,32
