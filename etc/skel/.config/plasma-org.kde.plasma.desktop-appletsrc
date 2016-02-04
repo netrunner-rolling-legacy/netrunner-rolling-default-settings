@@ -49,10 +49,8 @@ global=Alt+F1
 global=Alt+F1
 
 [Containments][1][Applets][2][Configuration][General]
-customButtonImage=file:///usr/share/pixmaps/swirl-run-4.png
 favoriteApps=systemsettings.desktop,org.kde.ksysguard.desktop,octopi.desktop,vokoscreen.desktop
 limitDepth=true
-useCustomButtonImage=true
 
 [Containments][1][Applets][3]
 immutability=1
