@@ -142,14 +142,14 @@ menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
 smallestReadableFont=Noto Sans,9,-1,5,50,0,0,0,0,0
 toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0
-widgetStyle=breeze
+widgetStyle=carbon
 
 [Icons]
 Theme=breeze
 
 [KDE]
 ColorScheme=Carbon
-LookAndFeelPackage=org.kde.netrunner-blue-x.desktop
+LookAndFeelPackage=org.kde.netrunner.desktop
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=false
 SingleClick=false
