@@ -154,7 +154,7 @@ ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=false
 SingleClick=false
 contrast=4
-widgetStyle=breeze
+widgetStyle=carbon
 
 [KDE-Global GUI Settings]
 GraphicEffectsLevel=6
