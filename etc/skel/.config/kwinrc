@@ -124,5 +124,4 @@ BorderSize=Normal
 ButtonsOnLeft=M
 ButtonsOnRight=IAX
 CloseOnDoubleClickOnMenu=true
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Carbon
+library=org.kde.breeze

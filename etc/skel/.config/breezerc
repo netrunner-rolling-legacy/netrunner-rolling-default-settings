@@ -8,3 +8,4 @@ ViewDrawFocusIndicator=false
 
 [Windeco]
 AnimationsEnabled=false
+DrawBackgroundGradient=false
