@@ -74,7 +74,7 @@ plugin=org.kde.plasma.icon
 applicationName=Yakuake
 genericName=Drop-down Terminal
 iconName=yakuake
-url=/usr/share/applications/kde4/yakuake.desktop
+url=file:///usr/share/applications/org.kde.yakuake.desktop
 
 [Containments][1][Applets][5]
 immutability=1
