@@ -1,11 +1,9 @@
-[$Version]
-update_info=yakuake.upd:2.9.9-startupnotification
-
 [Animation]
 Frames=10
 
 [Appearance]
 BackgroundColorOpacity=70
+Skin=legacy
 Translucency=true
 
 [Behavior]
